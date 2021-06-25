@@ -11,6 +11,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime | ICLR | [PDF](https://arxiv.org/pdf/2006.12297.pdf) | - |
 | Meta-Learning with Neural Tangent Kernels | ICLR | [PDF](https://arxiv.org/pdf/2102.03909.pdf) | - |
 | How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks | ICLR | [PDF](https://arxiv.org/pdf/2009.11848.pdf) | - |
+| Deep Networks and the Multiple Manifold Problem | ICLR | [PDF](https://arxiv.org/pdf/2008.11245.pdf) | - |
 | Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective | ICLR | [PDF](https://arxiv.org/pdf/2102.11535.pdf) | [CODE](https://github.com/VITA-Group/TENAS) |
 | A Deep Conditioning Treatment of Neural Networks | ALT | [PDF](https://arxiv.org/pdf/2002.01523.pdf) | - |
 | Implicit Regularization via Neural Feature Alignment | AISTATS | [PDF](https://arxiv.org/pdf/2008.00938.pdf) | [CODE](https://github.com/tfjgeorge/ntk_alignment) |
@@ -29,12 +30,14 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Pathological spectra of the Fisher information metric and its variants in deep neural networks | NC | [PDF](https://arxiv.org/pdf/1910.05992.pdf) | - |
 | Linearized two-layers neural networks in high dimension | Ann. Statist. | [PDF](https://arxiv.org/pdf/1904.12191.pdf) | - |
 | Geometric compression of invariant manifolds in neural nets | J. Stat. Mech. | [PDF](https://www.researchgate.net/profile/Leonardo-Petrini-2/publication/343150406_Compressing_invariant_manifolds_in_neural_nets/links/602e34cda6fdcc37a8339aff/Compressing-invariant-manifolds-in-neural-nets.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/compressing_invariant_manifolds) |
+| A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/2101.04243.pdf) | - |
 | Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | arXiv | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
 | Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel | arXiv | [PDF](https://arxiv.org/pdf/2103.11558.pdf) | [CODE](https://github.com/ASTAugustin/ICML_WNTK) |
 | Learning with Neural Tangent Kernels in Near Input Sparsity Time | arXiv | [PDF](https://arxiv.org/pdf/2104.00415.pdf) | - |
 | Random Features for the Neural Tangent Kernel | arXiv | [PDF](https://arxiv.org/pdf/2104.01351.pdf) | - |
 | Spectral Analysis of the Neural Tangent Kernel for Deep Residual Networks | arXiv | [PDF](https://arxiv.org/abs/2104.03093.pdf) | - |
 | Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective | arXiv | [PDF](https://arxiv.org/pdf/2104.09023.pdf) | - |
+| Uniform Convergence, Adversarial Spheres and a Simple Remedy | arXiv | [PDF](https://arxiv.org/pdf/2105.03491.pdf) | - |
 
 ## 2020
 | Title | Venue | PDF | CODE |
@@ -58,6 +61,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Tangents: Fast and Easy Infinite Neural Networks in Python | ICLR | [PDF](https://arxiv.org/pdf/1912.02803.pdf) | [CODE](https://github.com/google/neural-tangents) |
 | Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks | ICLR | [PDF](https://arxiv.org/pdf/1910.01663.pdf) | [CODE](https://github.com/LeoYu/neural-tangent-kernel-UCI) |
 | Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory | ICLR | [PDF](https://arxiv.org/pdf/1910.00359.pdf) | - |
+| Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee | ICLR | [PDF](https://arxiv.org/pdf/1905.11368.pdf) | - |
 | The equivalence between Stein variational gradient descent and black-box variational inference | ICLR-W | [PDF](https://arxiv.org/pdf/2004.01822.pdf) | - |
 | Neural Kernels Without Tangents | ICML | [PDF](https://arxiv.org/pdf/2003.02237.pdf) | [CODE](https://github.com/modestyachts/neural_kernels_code) |
 | The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization | ICML | [PDF](https://arxiv.org/pdf/2008.06786.pdf) | - |
@@ -65,6 +69,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Disentangling Trainability and Generalization in Deep Neural Networks | ICML | [PDF](https://arxiv.org/pdf/1912.13053.pdf) | - |
 | Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks | ICML | [PDF](https://arxiv.org/pdf/2002.02561.pdf) | [CODE](https://github.com/Pehlevan-Group/NTK_Learning_Curves) |
 | Finding trainable sparse networks through Neural Tangent Transfer | ICML | [PDF](https://arxiv.org/pdf/2006.08228.pdf) | [CODE](https://github.com/fmi-basel/neural-tangent-transfer) |
+| Associative Memory in Iterated Overparameterized Sigmoid Autoencoders | ICML | [PDF](https://arxiv.org/pdf/2006.16540.pdf) | - |
+| Neural Contextual Bandits with UCB-based Exploration | ICML | [PDF](https://arxiv.org/pdf/1911.04462.pdf) | - |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
@@ -90,8 +96,10 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Convergence of Adversarial Training in Overparametrized Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1906.07916.pdf) | - |
 | Generalization Bounds of Stochastic Gradient Descent for Wide and Deep Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1905.13210.pdf) | - |
 | Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/1810.05369.pdf) | - |
+| Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers | NeurIPS | [PDF](https://arxiv.org/pdf/1811.04918.pdf) | - |
 | Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation | arXiv | [PDF](https://arxiv.org/pdf/1902.04760.pdf) | - |
 | Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.09870.pdf) | - |
+| Gram-Gauss-Newton Method: Learning Overparameterized Neural Networks for Regression Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.11675.pdf) | - |
 | Mean-field Behaviour of Neural Tangent Kernel for Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/1905.13654.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | arXiv | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | - |
 | Order and Chaos: NTK views on DNN Normalization, Checkerboard and Boundary Artifacts | arXiv | [PDF](https://arxiv.org/pdf/1907.05715.pdf) | - |
