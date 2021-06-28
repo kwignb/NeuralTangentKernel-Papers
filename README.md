@@ -54,6 +54,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Networks Learning and Memorization with (almost) no Over-Parameterization | NeurIPS | [PDF](https://arxiv.org/pdf/1911.09873.pdf) | - |
 | Towards Understanding Hierarchical Learning: Benefits of Neural Representations | NeurIPS | [PDF](https://arxiv.org/pdf/2006.13436.pdf) | - |
 | Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher | NeurIPS | [PDF](https://arxiv.org/pdf/2010.10090.pdf) | - |
+| On Infinite-Width Hypernetworks | NeurIPS | [PDF](https://arxiv.org/pdf/2003.12193.pdf) | - |
 | Kernel and Rich Regimes in Overparametrized Models | COLT | [PDF](https://arxiv.org/pdf/2002.09277.pdf) | - |
 | Learning Over-Parametrized Two-Layer ReLU Neural Networks beyond NTK | COLT | [PDF](https://arxiv.org/pdf/2007.04596.pdf) | - |
 | Finite Depth and Width Corrections to the Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=SJgndT4KwB) | - |
@@ -71,10 +72,12 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Finding trainable sparse networks through Neural Tangent Transfer | ICML | [PDF](https://arxiv.org/pdf/2006.08228.pdf) | [CODE](https://github.com/fmi-basel/neural-tangent-transfer) |
 | Associative Memory in Iterated Overparameterized Sigmoid Autoencoders | ICML | [PDF](https://arxiv.org/pdf/2006.16540.pdf) | - |
 | Neural Contextual Bandits with UCB-based Exploration | ICML | [PDF](https://arxiv.org/pdf/1911.04462.pdf) | - |
+| Optimization Theory for ReLU Neural Networks Trained with Normalization Layers | ICML | [PDF](https://arxiv.org/pdf/2006.06878.pdf) | - |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | On the infinite width limit of neural networks with a standard parameterization | arXiv | [PDF](https://arxiv.org/pdf/2001.07301.pdf) | [CODE](https://github.com/google/neural-tangents) |
+| On Random Kernels of Residual Architectures | arXiv | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | arXiv | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Generalisation guarantees for continual learning with orthogonal gradient descent | arXiv | [PDF](https://arxiv.org/pdf/2006.11942.pdf) | - |
 | On the Empirical Neural Tangent Kernel of Standard Finite-Width Convolutional Neural Network Architectures | arXiv | [PDF](https://arxiv.org/pdf/2006.13645.pdf) | - |
