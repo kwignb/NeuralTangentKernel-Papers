@@ -75,10 +75,10 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Contextual Bandits with UCB-based Exploration | ICML | [PDF](https://arxiv.org/pdf/1911.04462.pdf) | - |
 | Optimization Theory for ReLU Neural Networks Trained with Normalization Layers | ICML | [PDF](https://arxiv.org/pdf/2006.06878.pdf) | - |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
-| On Random Kernels of Residual Architectures | arXiv | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Any Target Function Exists in a Neighborhood of Any Sufficiently Wide Random Network: A Geometrical Perspective | NC | [PDF](https://arxiv.org/pdf/2001.06931.pdf) | - |
+| On the infinite width limit of neural networks with a standard parameterization | arXiv | [PDF](https://arxiv.org/pdf/2001.07301.pdf) | [CODE](https://github.com/google/neural-tangents) |
 | On Random Kernels of Residual Architectures | arXiv | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | arXiv | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Generalisation guarantees for continual learning with orthogonal gradient descent | arXiv | [PDF](https://arxiv.org/pdf/2006.11942.pdf) | - |
