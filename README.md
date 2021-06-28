@@ -6,6 +6,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | Wearing a MASK: Compressed Representations of Variable-Length Sequences Using Recurrent Neural Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2010.13975.pdf) | [CODE](https://github.com/dlej/MASK) |
+| The Dynamics of Gradient Descent for Overparametrized Neural Networks | L4DC | [PDF](https://arxiv.org/pdf/2105.06569.pdf) | - |
 | The Recurrent Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=3T9iFICe0Y9) | - |
 | Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS | ICLR | [PDF](https://openreview.net/pdf?id=vK9WrZ0QYQ) | - |
 | Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime | ICLR | [PDF](https://arxiv.org/pdf/2006.12297.pdf) | - |
@@ -74,9 +75,10 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Contextual Bandits with UCB-based Exploration | ICML | [PDF](https://arxiv.org/pdf/1911.04462.pdf) | - |
 | Optimization Theory for ReLU Neural Networks Trained with Normalization Layers | ICML | [PDF](https://arxiv.org/pdf/2006.06878.pdf) | - |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
+| On Random Kernels of Residual Architectures | arXiv | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
-| On the infinite width limit of neural networks with a standard parameterization | arXiv | [PDF](https://arxiv.org/pdf/2001.07301.pdf) | [CODE](https://github.com/google/neural-tangents) |
+| Any Target Function Exists in a Neighborhood of Any Sufficiently Wide Random Network: A Geometrical Perspective | NC | [PDF](https://arxiv.org/pdf/2001.06931.pdf) | - |
 | On Random Kernels of Residual Architectures | arXiv | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | arXiv | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Generalisation guarantees for continual learning with orthogonal gradient descent | arXiv | [PDF](https://arxiv.org/pdf/2006.11942.pdf) | - |
@@ -101,6 +103,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/1810.05369.pdf) | - |
 | Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers | NeurIPS | [PDF](https://arxiv.org/pdf/1811.04918.pdf) | - |
 | Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation | arXiv | [PDF](https://arxiv.org/pdf/1902.04760.pdf) | - |
+| Information in Infinite Ensembles of Infinitely-Wide Neural Networks | AABI | [PDF](https://arxiv.org/pdf/1911.09189.pdf) | - |
 | Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.09870.pdf) | - |
 | Gram-Gauss-Newton Method: Learning Overparameterized Neural Networks for Regression Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.11675.pdf) | - |
 | Mean-field Behaviour of Neural Tangent Kernel for Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/1905.13654.pdf) | - |
