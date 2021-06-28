@@ -19,10 +19,12 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Regularization Matters: A Nonparametric Perspective on Overparametrized Neural Network | AISTATS | [PDF](https://arxiv.org/pdf/2007.02486.pdf) | - |
 | One-pass Stochastic Gradient Descent in Overparametrized Two-layer Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2105.00262.pdf) | - |
 | Fast Adaptation with Linearized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2103.01439.pdf) | [CODE](https://github.com/amzn/xfer/tree/master/finite_ntk) |
+| Fast Learning in Reproducing Kernel Kre˘ın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
 | Tight Bounds on the Smallest Eigenvalue of the Neural Tangent Kernel for Deep ReLU Networks | ICML | [PDF](https://arxiv.org/pdf/2012.11654.pdf) | - |
 | On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models | ICML | [PDF](https://arxiv.org/pdf/2103.05243.pdf) | - |
 | Tensor Programs IIb: Architectural Universality of Neural Tangent Kernel Training Dynamics | ICML | [PDF](https://arxiv.org/pdf/2105.03703.pdf) | - |
 | FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Convergence Analysis | ICML | [PDF](https://arxiv.org/pdf/2105.05001.pdf) | - |
+| On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent | ICML | [PDF](https://arxiv.org/pdf/2102.09769.pdf) | - |
 | Feature Learning in Infinite-Width Neural Networks | ICML | [PDF](https://arxiv.org/pdf/2011.14522.pdf) | [CODE](https://github.com/edwardjhu/TP4) |
 | Benefits of Jointly Training Autoencoders: An Improved Neural Tangent Kernel Analysis | TIT | [PDF](https://arxiv.org/pdf/1911.11983.pdf) | - |
 | Reinforcement Learning via Gaussian Processes with Neural Network Dual Kernels | CoG | [PDF](https://arxiv.org/pdf/2004.05198.pdf) | - |
@@ -64,6 +66,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks | ICLR | [PDF](https://arxiv.org/pdf/1910.01663.pdf) | [CODE](https://github.com/LeoYu/neural-tangent-kernel-UCI) |
 | Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory | ICLR | [PDF](https://arxiv.org/pdf/1910.00359.pdf) | - |
 | Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee | ICLR | [PDF](https://arxiv.org/pdf/1905.11368.pdf) | - |
+| The asymptotic spectrum of the Hessian of DNN throughout training | ICLR | [PDF](https://arxiv.org/pdf/1910.02875.pdf) | - |
 | The equivalence between Stein variational gradient descent and black-box variational inference | ICLR-W | [PDF](https://arxiv.org/pdf/2004.01822.pdf) | - |
 | Neural Kernels Without Tangents | ICML | [PDF](https://arxiv.org/pdf/2003.02237.pdf) | [CODE](https://github.com/modestyachts/neural_kernels_code) |
 | The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization | ICML | [PDF](https://arxiv.org/pdf/2008.06786.pdf) | - |
