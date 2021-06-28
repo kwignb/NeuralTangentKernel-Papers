@@ -20,6 +20,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | One-pass Stochastic Gradient Descent in Overparametrized Two-layer Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2105.00262.pdf) | - |
 | Fast Adaptation with Linearized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2103.01439.pdf) | [CODE](https://github.com/amzn/xfer/tree/master/finite_ntk) |
 | Fast Learning in Reproducing Kernel Kre˘ın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
+| Can We Characterize Tasks Without Labels or Features? | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.pdf) | [CODE](https://github.com/BramSW/task_characterization_cvpr_2021) |
 | Tight Bounds on the Smallest Eigenvalue of the Neural Tangent Kernel for Deep ReLU Networks | ICML | [PDF](https://arxiv.org/pdf/2012.11654.pdf) | - |
 | On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models | ICML | [PDF](https://arxiv.org/pdf/2103.05243.pdf) | - |
 | Tensor Programs IIb: Architectural Universality of Neural Tangent Kernel Training Dynamics | ICML | [PDF](https://arxiv.org/pdf/2105.03703.pdf) | - |
