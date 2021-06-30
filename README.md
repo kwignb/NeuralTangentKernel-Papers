@@ -14,6 +14,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks | ICLR | [PDF](https://arxiv.org/pdf/2009.11848.pdf) | - |
 | Deep Networks and the Multiple Manifold Problem | ICLR | [PDF](https://arxiv.org/pdf/2008.11245.pdf) | - |
 | Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective | ICLR | [PDF](https://arxiv.org/pdf/2102.11535.pdf) | [CODE](https://github.com/VITA-Group/TENAS) |
+| Neural Thompson Sampling | ICLR | [PDF](https://arxiv.org/pdf/2010.00827.pdf) | - |
+| Deep Equals Shallow for ReLU Networks in Kernel Regimes | ICLR | [PDF](https://arxiv.org/pdf/2009.14397.pdf) | - |
 | A Deep Conditioning Treatment of Neural Networks | ALT | [PDF](https://arxiv.org/pdf/2002.01523.pdf) | - |
 | Implicit Regularization via Neural Feature Alignment | AISTATS | [PDF](https://arxiv.org/pdf/2008.00938.pdf) | [CODE](https://github.com/tfjgeorge/ntk_alignment) |
 | Regularization Matters: A Nonparametric Perspective on Overparametrized Neural Network | AISTATS | [PDF](https://arxiv.org/pdf/2007.02486.pdf) | - |
@@ -46,6 +48,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations | ECCV | [PDF](https://arxiv.org/pdf/2003.02960.pdf) | - |
 | Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective | NeurIPS | [PDF](https://arxiv.org/pdf/2002.06262.pdf) | - |
 | Label-Aware Neural Tangent Kernel: Toward Better Generalization and Local Elasticity | NeurIPS | [PDF](https://arxiv.org/pdf/2010.11775.pdf) | [CODE](https://github.com/HornHehhf/LANTK) |
 | Finite Versus Infinite Neural Networks: an Empirical Study | NeurIPS | [PDF](https://arxiv.org/pdf/2007.15801.pdf) | - |
@@ -64,10 +67,11 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Finite Depth and Width Corrections to the Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=SJgndT4KwB) | - |
 | Neural tangent kernels, transportation mappings, and universal approximation | ICLR | [PDF](https://arxiv.org/pdf/1910.06956.pdf) | - |
 | Neural Tangents: Fast and Easy Infinite Neural Networks in Python | ICLR | [PDF](https://arxiv.org/pdf/1912.02803.pdf) | [CODE](https://github.com/google/neural-tangents) |
-| Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks | ICLR | [PDF](https://arxiv.org/pdf/1910.01663.pdf) | [CODE](https://github.com/LeoYu/neural-tangent-kernel-UCI) |
+| Picking Winning Tickets Before Training by Preserving Gradient Flow | ICLR | [PDF](https://arxiv.org/pdf/1910.01663.pdf) | [CODE](https://github.com/alecwangcq/GraSP) |
 | Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory | ICLR | [PDF](https://arxiv.org/pdf/1910.00359.pdf) | - |
 | Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee | ICLR | [PDF](https://arxiv.org/pdf/1905.11368.pdf) | - |
 | The asymptotic spectrum of the Hessian of DNN throughout training | ICLR | [PDF](https://arxiv.org/pdf/1910.02875.pdf) | - |
+| Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks | ICLR | [PDF](https://arxiv.org/pdf/2002.07376.pdf) | [CODE](https://github.com/LeoYu/neural-tangent-kernel-UCI) |
 | The equivalence between Stein variational gradient descent and black-box variational inference | ICLR-W | [PDF](https://arxiv.org/pdf/2004.01822.pdf) | - |
 | Neural Kernels Without Tangents | ICML | [PDF](https://arxiv.org/pdf/2003.02237.pdf) | [CODE](https://github.com/modestyachts/neural_kernels_code) |
 | The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization | ICML | [PDF](https://arxiv.org/pdf/2008.06786.pdf) | - |
