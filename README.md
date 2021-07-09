@@ -83,6 +83,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Associative Memory in Iterated Overparameterized Sigmoid Autoencoders | ICML | [PDF](https://arxiv.org/pdf/2006.16540.pdf) | - |
 | Neural Contextual Bandits with UCB-based Exploration | ICML | [PDF](https://arxiv.org/pdf/1911.04462.pdf) | - |
 | Optimization Theory for ReLU Neural Networks Trained with Normalization Layers | ICML | [PDF](https://arxiv.org/pdf/2006.06878.pdf) | - |
+| Towards a General Theory of Infinite-Width Limits of Neural Classifiers | ICML | [PDF](https://arxiv.org/pdf/2003.05884.pdf) | - |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
@@ -95,6 +96,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Infinite-Width Neural Networks for Any Architecture: Reference Implementations | arXiv | [PDF](https://arxiv.org/pdf/2006.14548.pdf) | [CODE](https://github.com/thegregyang/NTK4A) |
 | The Neural Tangent Link Between CNN Denoisers and Non-Local Filters | arXiv | [PDF](https://arxiv.org/pdf/2006.02379.pdf) | [CODE](https://gitlab.com/Tachella/neural_tangent_denoiser) |
 | Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel | arXiv | [PDF](https://arxiv.org/pdf/2010.15110.pdf) | - |
+| Nerfies: Deformable Neural Radiance Fields | arXiv | [PDF](https://arxiv.org/pdf/2011.12948.pdf) | [CODE](https://github.com/google/nerfies) |
 | Every Model Learned by Gradient Descent Is Approximately a Kernel Machine | arXiv | [PDF](https://arxiv.org/pdf/2012.00152.pdf) | - |
 | Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory? | arXiv | [PDF](https://arxiv.org/pdf/2012.04477.pdf) | - |
 | Scalable Neural Tangent Kernel of Recurrent Architectures | arXiv | [PDF](https://arxiv.org/pdf/2012.04859.pdf) | [CODE](https://github.com/moonlightlane/RNTK_UCI) |
