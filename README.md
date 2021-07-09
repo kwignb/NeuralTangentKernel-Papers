@@ -16,6 +16,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective | ICLR | [PDF](https://arxiv.org/pdf/2102.11535.pdf) | [CODE](https://github.com/VITA-Group/TENAS) |
 | Neural Thompson Sampling | ICLR | [PDF](https://arxiv.org/pdf/2010.00827.pdf) | - |
 | Deep Equals Shallow for ReLU Networks in Kernel Regimes | ICLR | [PDF](https://arxiv.org/pdf/2009.14397.pdf) | - |
+| A Recipe for Global Convergence Guarantee in Deep Neural Networks | AAAI | [PDF](https://arxiv.org/pdf/2104.05785.pdf) | - |
 | A Deep Conditioning Treatment of Neural Networks | ALT | [PDF](https://arxiv.org/pdf/2002.01523.pdf) | - |
 | Implicit Regularization via Neural Feature Alignment | AISTATS | [PDF](https://arxiv.org/pdf/2008.00938.pdf) | [CODE](https://github.com/tfjgeorge/ntk_alignment) |
 | Regularization Matters: A Nonparametric Perspective on Overparametrized Neural Network | AISTATS | [PDF](https://arxiv.org/pdf/2007.02486.pdf) | - |
@@ -73,6 +74,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee | ICLR | [PDF](https://arxiv.org/pdf/1905.11368.pdf) | - |
 | The asymptotic spectrum of the Hessian of DNN throughout training | ICLR | [PDF](https://arxiv.org/pdf/1910.02875.pdf) | - |
 | Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks | ICLR | [PDF](https://arxiv.org/pdf/2002.07376.pdf) | [CODE](https://github.com/LeoYu/neural-tangent-kernel-UCI) |
+| Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks | ICLR | [PDF](https://arxiv.org/pdf/1910.01619.pdf) | - |
 | The equivalence between Stein variational gradient descent and black-box variational inference | ICLR-W | [PDF](https://arxiv.org/pdf/2004.01822.pdf) | - |
 | Neural Kernels Without Tangents | ICML | [PDF](https://arxiv.org/pdf/2003.02237.pdf) | [CODE](https://github.com/modestyachts/neural_kernels_code) |
 | The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization | ICML | [PDF](https://arxiv.org/pdf/2008.06786.pdf) | - |
