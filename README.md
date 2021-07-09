@@ -29,6 +29,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Convergence Analysis | ICML | [PDF](https://arxiv.org/pdf/2105.05001.pdf) | - |
 | On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent | ICML | [PDF](https://arxiv.org/pdf/2102.09769.pdf) | - |
 | Feature Learning in Infinite-Width Neural Networks | ICML | [PDF](https://arxiv.org/pdf/2011.14522.pdf) | [CODE](https://github.com/edwardjhu/TP4) |
+| On Monotonic Linear Interpolation of Neural Network Parameters | ICML | [PDF](https://arxiv.org/pdf/2104.11044.pdf) | - |
 | Benefits of Jointly Training Autoencoders: An Improved Neural Tangent Kernel Analysis | TIT | [PDF](https://arxiv.org/pdf/1911.11983.pdf) | - |
 | Reinforcement Learning via Gaussian Processes with Neural Network Dual Kernels | CoG | [PDF](https://arxiv.org/pdf/2004.05198.pdf) | - |
 | Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
@@ -97,6 +98,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Every Model Learned by Gradient Descent Is Approximately a Kernel Machine | arXiv | [PDF](https://arxiv.org/pdf/2012.00152.pdf) | - |
 | Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory? | arXiv | [PDF](https://arxiv.org/pdf/2012.04477.pdf) | - |
 | Scalable Neural Tangent Kernel of Recurrent Architectures | arXiv | [PDF](https://arxiv.org/pdf/2012.04859.pdf) | [CODE](https://github.com/moonlightlane/RNTK_UCI) |
+| Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning | arXiv | [PDF](https://arxiv.org/pdf/2012.09816.pdf) | - |
 
 ## 2019
 | Title | Venue | PDF | CODE |
