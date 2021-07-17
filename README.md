@@ -23,6 +23,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | One-pass Stochastic Gradient Descent in Overparametrized Two-layer Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2105.00262.pdf) | - |
 | Fast Adaptation with Linearized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2103.01439.pdf) | [CODE](https://github.com/amzn/xfer/tree/master/finite_ntk) |
 | Fast Learning in Reproducing Kernel Kre˘ın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
+| Stable ResNet | AISTATS | [PDF](https://arxiv.org/pdf/2010.12859.pdf) | - |
 | Can We Characterize Tasks Without Labels or Features? | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.pdf) | [CODE](https://github.com/BramSW/task_characterization_cvpr_2021) |
 | Tight Bounds on the Smallest Eigenvalue of the Neural Tangent Kernel for Deep ReLU Networks | ICML | [PDF](https://arxiv.org/pdf/2012.11654.pdf) | - |
 | On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models | ICML | [PDF](https://arxiv.org/pdf/2103.05243.pdf) | - |
@@ -64,6 +65,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Towards Understanding Hierarchical Learning: Benefits of Neural Representations | NeurIPS | [PDF](https://arxiv.org/pdf/2006.13436.pdf) | - |
 | Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher | NeurIPS | [PDF](https://arxiv.org/pdf/2010.10090.pdf) | - |
 | On Infinite-Width Hypernetworks | NeurIPS | [PDF](https://arxiv.org/pdf/2003.12193.pdf) | - |
+| Predicting Training Time Without Training | NeurIPS | [PDF](https://arxiv.org/pdf/2008.12478.pdf) | - |
 | Kernel and Rich Regimes in Overparametrized Models | COLT | [PDF](https://arxiv.org/pdf/2002.09277.pdf) | - |
 | Learning Over-Parametrized Two-Layer ReLU Neural Networks beyond NTK | COLT | [PDF](https://arxiv.org/pdf/2007.04596.pdf) | - |
 | Finite Depth and Width Corrections to the Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=SJgndT4KwB) | - |
@@ -116,6 +118,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Generalization Bounds of Stochastic Gradient Descent for Wide and Deep Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1905.13210.pdf) | - |
 | Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/1810.05369.pdf) | - |
 | Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers | NeurIPS | [PDF](https://arxiv.org/pdf/1811.04918.pdf) | - |
+| Limitations of Lazy Training of Two-layers Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1906.08899.pdf) | - |
 | Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation | arXiv | [PDF](https://arxiv.org/pdf/1902.04760.pdf) | - |
 | Information in Infinite Ensembles of Infinitely-Wide Neural Networks | AABI | [PDF](https://arxiv.org/pdf/1911.09189.pdf) | - |
 | Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.09870.pdf) | - |
