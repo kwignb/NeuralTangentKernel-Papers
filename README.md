@@ -119,8 +119,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/1810.05369.pdf) | - |
 | Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers | NeurIPS | [PDF](https://arxiv.org/pdf/1811.04918.pdf) | - |
 | Limitations of Lazy Training of Two-layers Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1906.08899.pdf) | - |
-| Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation | arXiv | [PDF](https://arxiv.org/pdf/1902.04760.pdf) | - |
 | Information in Infinite Ensembles of Infinitely-Wide Neural Networks | AABI | [PDF](https://arxiv.org/pdf/1911.09189.pdf) | - |
+| Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation | arXiv | [PDF](https://arxiv.org/pdf/1902.04760.pdf) | - |
 | Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.09870.pdf) | - |
 | Gram-Gauss-Newton Method: Learning Overparameterized Neural Networks for Regression Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.11675.pdf) | - |
 | Mean-field Behaviour of Neural Tangent Kernel for Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/1905.13654.pdf) | - |
