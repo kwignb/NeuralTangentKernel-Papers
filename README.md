@@ -90,6 +90,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Optimization Theory for ReLU Neural Networks Trained with Normalization Layers | ICML | [PDF](https://arxiv.org/pdf/2006.06878.pdf) | - |
 | Towards a General Theory of Infinite-Width Limits of Neural Classifiers | ICML | [PDF](https://arxiv.org/pdf/2003.05884.pdf) | - |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
+| A type of generalization error induced by initialization in deep neural networks | MSML | [PDF](https://arxiv.org/pdf/1905.07777.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Any Target Function Exists in a Neighborhood of Any Sufficiently Wide Random Network: A Geometrical Perspective | NC | [PDF](https://arxiv.org/pdf/2001.06931.pdf) | - |
@@ -121,6 +122,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers | NeurIPS | [PDF](https://arxiv.org/pdf/1811.04918.pdf) | - |
 | Limitations of Lazy Training of Two-layers Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1906.08899.pdf) | - |
 | The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies | NeurIPS | [PDF](https://arxiv.org/pdf/1906.00425.pdf) | [CODE](https://github.com/ykasten/Convergence-Rate-NN-Different-Frequencies) |
+| On Lazy Training in Differentiable Programming | NeurIPS | [PDF](https://arxiv.org/pdf/1812.07956.pdf) | - |
 | Information in Infinite Ensembles of Infinitely-Wide Neural Networks | AABI | [PDF](https://arxiv.org/pdf/1911.09189.pdf) | - |
 | Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation | arXiv | [PDF](https://arxiv.org/pdf/1902.04760.pdf) | - |
 | Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.09870.pdf) | - |
