@@ -26,6 +26,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Stable ResNet | AISTATS | [PDF](https://arxiv.org/pdf/2010.12859.pdf) | - |
 | Can We Characterize Tasks Without Labels or Features? | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.pdf) | [CODE](https://github.com/BramSW/task_characterization_cvpr_2021) |
 | The Neural Tangent Link Between CNN Denoisers and Non-Local Filters | CVPR | [PDF](https://arxiv.org/pdf/2006.02379.pdf) | [CODE](https://gitlab.com/Tachella/neural_tangent_denoiser) |
+| Nerfies: Deformable Neural Radiance Fields | ICCV | [PDF](https://arxiv.org/pdf/2011.12948.pdf) | [CODE](https://github.com/google/nerfies) |
 | Tight Bounds on the Smallest Eigenvalue of the Neural Tangent Kernel for Deep ReLU Networks | ICML | [PDF](https://arxiv.org/pdf/2012.11654.pdf) | - |
 | On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models | ICML | [PDF](https://arxiv.org/pdf/2103.05243.pdf) | - |
 | Tensor Programs IIb: Architectural Universality of Neural Tangent Kernel Training Dynamics | ICML | [PDF](https://arxiv.org/pdf/2105.03703.pdf) | - |
@@ -35,6 +36,9 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | On Monotonic Linear Interpolation of Neural Network Parameters | ICML | [PDF](https://arxiv.org/pdf/2104.11044.pdf) | - |
 | Uniform Convergence, Adversarial Spheres and a Simple Remedy | ICML | [PDF](https://arxiv.org/pdf/2105.03491.pdf) | - |
 | Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
+| On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | IJCAI | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
+| Towards Understanding the Spectral Bias of Deep Learning | IJCAI | [PDF](https://arxiv.org/pdf/1912.01198.pdf) | - |
+| On Random Kernels of Residual Architectures | UAI | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
 | Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective | ACM TOG | [PDF](https://arxiv.org/pdf/2104.09023.pdf) | - |
 | Benefits of Jointly Training Autoencoders: An Improved Neural Tangent Kernel Analysis | TIT | [PDF](https://arxiv.org/pdf/1911.11983.pdf) | - |
 | Reinforcement Learning via Gaussian Processes with Neural Network Dual Kernels | CoG | [PDF](https://arxiv.org/pdf/2004.05198.pdf) | - |
@@ -67,6 +71,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher | NeurIPS | [PDF](https://arxiv.org/pdf/2010.10090.pdf) | - |
 | On Infinite-Width Hypernetworks | NeurIPS | [PDF](https://arxiv.org/pdf/2003.12193.pdf) | - |
 | Predicting Training Time Without Training | NeurIPS | [PDF](https://arxiv.org/pdf/2008.12478.pdf) | - |
+| Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/2010.15110.pdf) | - |
 | Kernel and Rich Regimes in Overparametrized Models | COLT | [PDF](https://arxiv.org/pdf/2002.09277.pdf) | - |
 | Learning Over-Parametrized Two-Layer ReLU Neural Networks beyond NTK | COLT | [PDF](https://arxiv.org/pdf/2007.04596.pdf) | - |
 | Finite Depth and Width Corrections to the Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=SJgndT4KwB) | - |
@@ -90,19 +95,15 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Contextual Bandits with UCB-based Exploration | ICML | [PDF](https://arxiv.org/pdf/1911.04462.pdf) | - |
 | Optimization Theory for ReLU Neural Networks Trained with Normalization Layers | ICML | [PDF](https://arxiv.org/pdf/2006.06878.pdf) | - |
 | Towards a General Theory of Infinite-Width Limits of Neural Classifiers | ICML | [PDF](https://arxiv.org/pdf/2003.05884.pdf) | - |
+| Generalisation guarantees for continual learning with orthogonal gradient descent | ICML-W | [PDF](https://arxiv.org/pdf/2006.11942.pdf) | [CODE](https://github.com/MehdiAbbanaBennani/continual-learning-ogdplus) |
 | Neural Spectrum Alignment: Empirical Study | ICANN | [PDF](https://arxiv.org/pdf/1910.08720.pdf) | - |
 | A type of generalization error induced by initialization in deep neural networks | MSML | [PDF](https://arxiv.org/pdf/1905.07777.pdf) | - |
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Any Target Function Exists in a Neighborhood of Any Sufficiently Wide Random Network: A Geometrical Perspective | NC | [PDF](https://arxiv.org/pdf/2001.06931.pdf) | - |
 | On the infinite width limit of neural networks with a standard parameterization | arXiv | [PDF](https://arxiv.org/pdf/2001.07301.pdf) | [CODE](https://github.com/google/neural-tangents) |
-| On Random Kernels of Residual Architectures | arXiv | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
-| On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | arXiv | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
-| Generalisation guarantees for continual learning with orthogonal gradient descent | arXiv | [PDF](https://arxiv.org/pdf/2006.11942.pdf) | - |
 | On the Empirical Neural Tangent Kernel of Standard Finite-Width Convolutional Neural Network Architectures | arXiv | [PDF](https://arxiv.org/pdf/2006.13645.pdf) | - |
 | Infinite-Width Neural Networks for Any Architecture: Reference Implementations | arXiv | [PDF](https://arxiv.org/pdf/2006.14548.pdf) | [CODE](https://github.com/thegregyang/NTK4A) |
-| Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel | arXiv | [PDF](https://arxiv.org/pdf/2010.15110.pdf) | - |
-| Nerfies: Deformable Neural Radiance Fields | arXiv | [PDF](https://arxiv.org/pdf/2011.12948.pdf) | [CODE](https://github.com/google/nerfies) |
 | Every Model Learned by Gradient Descent Is Approximately a Kernel Machine | arXiv | [PDF](https://arxiv.org/pdf/2012.00152.pdf) | - |
 | Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory? | arXiv | [PDF](https://arxiv.org/pdf/2012.04477.pdf) | - |
 | Scalable Neural Tangent Kernel of Recurrent Architectures | arXiv | [PDF](https://arxiv.org/pdf/2012.04859.pdf) | [CODE](https://github.com/moonlightlane/RNTK_UCI) |
@@ -128,11 +129,9 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Gradient Descent can Learn Less Over-parameterized Two-layer Neural Networks on Classification Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.09870.pdf) | - |
 | Gram-Gauss-Newton Method: Learning Overparameterized Neural Networks for Regression Problems | arXiv | [PDF](https://arxiv.org/pdf/1905.11675.pdf) | - |
 | Mean-field Behaviour of Neural Tangent Kernel for Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/1905.13654.pdf) | - |
-| Disentangling feature and lazy training in deep neural networks | arXiv | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | - |
 | Order and Chaos: NTK views on DNN Normalization, Checkerboard and Boundary Artifacts | arXiv | [PDF](https://arxiv.org/pdf/1907.05715.pdf) | - |
 | A Fine-Grained Spectral Perspective on Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/1907.10599.pdf) | [CODE](https://github.com/thegregyang/NNspectra) |
 | Enhanced Convolutional Neural Tangent Kernels | arXiv | [PDF](https://arxiv.org/pdf/1911.00809.pdf) | - |
-| Towards Understanding the Spectral Bias of Deep Learning | arXiv | [PDF](https://arxiv.org/pdf/1912.01198.pdf) | - |
 
 ## 2018
 | Title | Venue | PDF | CODE |
