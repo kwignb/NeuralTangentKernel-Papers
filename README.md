@@ -25,6 +25,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Fast Learning in Reproducing Kernel Kre˘ın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
 | Stable ResNet | AISTATS | [PDF](https://arxiv.org/pdf/2010.12859.pdf) | - |
 | Can We Characterize Tasks Without Labels or Features? | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.pdf) | [CODE](https://github.com/BramSW/task_characterization_cvpr_2021) |
+| The Neural Tangent Link Between CNN Denoisers and Non-Local Filters | CVPR | [PDF](https://arxiv.org/pdf/2006.02379.pdf) | [CODE](https://gitlab.com/Tachella/neural_tangent_denoiser) |
 | Tight Bounds on the Smallest Eigenvalue of the Neural Tangent Kernel for Deep ReLU Networks | ICML | [PDF](https://arxiv.org/pdf/2012.11654.pdf) | - |
 | On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models | ICML | [PDF](https://arxiv.org/pdf/2103.05243.pdf) | - |
 | Tensor Programs IIb: Architectural Universality of Neural Tangent Kernel Training Dynamics | ICML | [PDF](https://arxiv.org/pdf/2105.03703.pdf) | - |
@@ -32,6 +33,9 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent | ICML | [PDF](https://arxiv.org/pdf/2102.09769.pdf) | - |
 | Feature Learning in Infinite-Width Neural Networks | ICML | [PDF](https://arxiv.org/pdf/2011.14522.pdf) | [CODE](https://github.com/edwardjhu/TP4) |
 | On Monotonic Linear Interpolation of Neural Network Parameters | ICML | [PDF](https://arxiv.org/pdf/2104.11044.pdf) | - |
+| Uniform Convergence, Adversarial Spheres and a Simple Remedy | ICML | [PDF](https://arxiv.org/pdf/2105.03491.pdf) | - |
+| Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
+| Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective | ACM TOG | [PDF](https://arxiv.org/pdf/2104.09023.pdf) | - |
 | Benefits of Jointly Training Autoencoders: An Improved Neural Tangent Kernel Analysis | TIT | [PDF](https://arxiv.org/pdf/1911.11983.pdf) | - |
 | Reinforcement Learning via Gaussian Processes with Neural Network Dual Kernels | CoG | [PDF](https://arxiv.org/pdf/2004.05198.pdf) | - |
 | Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
@@ -40,13 +44,10 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Linearized two-layers neural networks in high dimension | Ann. Statist. | [PDF](https://arxiv.org/pdf/1904.12191.pdf) | - |
 | Geometric compression of invariant manifolds in neural nets | J. Stat. Mech. | [PDF](https://www.researchgate.net/profile/Leonardo-Petrini-2/publication/343150406_Compressing_invariant_manifolds_in_neural_nets/links/602e34cda6fdcc37a8339aff/Compressing-invariant-manifolds-in-neural-nets.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/compressing_invariant_manifolds) |
 | A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/2101.04243.pdf) | - |
-| Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | arXiv | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
 | Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel | arXiv | [PDF](https://arxiv.org/pdf/2103.11558.pdf) | [CODE](https://github.com/ASTAugustin/ICML_WNTK) |
 | Learning with Neural Tangent Kernels in Near Input Sparsity Time | arXiv | [PDF](https://arxiv.org/pdf/2104.00415.pdf) | - |
 | Random Features for the Neural Tangent Kernel | arXiv | [PDF](https://arxiv.org/pdf/2104.01351.pdf) | - |
 | Spectral Analysis of the Neural Tangent Kernel for Deep Residual Networks | arXiv | [PDF](https://arxiv.org/abs/2104.03093.pdf) | - |
-| Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective | arXiv | [PDF](https://arxiv.org/pdf/2104.09023.pdf) | - |
-| Uniform Convergence, Adversarial Spheres and a Simple Remedy | arXiv | [PDF](https://arxiv.org/pdf/2105.03491.pdf) | - |
 
 ## 2020
 | Title | Venue | PDF | CODE |
@@ -100,7 +101,6 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Generalisation guarantees for continual learning with orthogonal gradient descent | arXiv | [PDF](https://arxiv.org/pdf/2006.11942.pdf) | - |
 | On the Empirical Neural Tangent Kernel of Standard Finite-Width Convolutional Neural Network Architectures | arXiv | [PDF](https://arxiv.org/pdf/2006.13645.pdf) | - |
 | Infinite-Width Neural Networks for Any Architecture: Reference Implementations | arXiv | [PDF](https://arxiv.org/pdf/2006.14548.pdf) | [CODE](https://github.com/thegregyang/NTK4A) |
-| The Neural Tangent Link Between CNN Denoisers and Non-Local Filters | arXiv | [PDF](https://arxiv.org/pdf/2006.02379.pdf) | [CODE](https://gitlab.com/Tachella/neural_tangent_denoiser) |
 | Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel | arXiv | [PDF](https://arxiv.org/pdf/2010.15110.pdf) | - |
 | Nerfies: Deformable Neural Radiance Fields | arXiv | [PDF](https://arxiv.org/pdf/2011.12948.pdf) | [CODE](https://github.com/google/nerfies) |
 | Every Model Learned by Gradient Descent Is Approximately a Kernel Machine | arXiv | [PDF](https://arxiv.org/pdf/2012.00152.pdf) | - |
