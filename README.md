@@ -24,6 +24,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Fast Adaptation with Linearized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2103.01439.pdf) | [CODE](https://github.com/amzn/xfer/tree/master/finite_ntk) |
 | Fast Learning in Reproducing Kernel Kre˘ın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
 | Stable ResNet | AISTATS | [PDF](https://arxiv.org/pdf/2010.12859.pdf) | - |
+| A Dynamical View on Optimization Algorithms of Overparameterized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2010.13165.pdf) | - |
 | Can We Characterize Tasks Without Labels or Features? | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.pdf) | [CODE](https://github.com/BramSW/task_characterization_cvpr_2021) |
 | The Neural Tangent Link Between CNN Denoisers and Non-Local Filters | CVPR | [PDF](https://arxiv.org/pdf/2006.02379.pdf) | [CODE](https://gitlab.com/Tachella/neural_tangent_denoiser) |
 | Nerfies: Deformable Neural Radiance Fields | ICCV | [PDF](https://arxiv.org/pdf/2011.12948.pdf) | [CODE](https://github.com/google/nerfies) |
@@ -36,6 +37,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | On Monotonic Linear Interpolation of Neural Network Parameters | ICML | [PDF](https://arxiv.org/pdf/2104.11044.pdf) | - |
 | Uniform Convergence, Adversarial Spheres and a Simple Remedy | ICML | [PDF](https://arxiv.org/pdf/2105.03491.pdf) | - |
 | Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
+| Efficient Statistical Tests: A Neural Tangent Kernel Approach | ICML | [PDF](http://proceedings.mlr.press/v139/jia21a/jia21a.pdf) | - |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | IJCAI | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Towards Understanding the Spectral Bias of Deep Learning | IJCAI | [PDF](https://arxiv.org/pdf/1912.01198.pdf) | - |
 | On Random Kernels of Residual Architectures | UAI | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
