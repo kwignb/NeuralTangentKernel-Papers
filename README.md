@@ -5,6 +5,10 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Neural Tangent Kernel Maximum Mean Discrepancy | NeurIPS | [PDF](https://arxiv.org/pdf/2106.03227.pdf) | - |
+| DNN-based Topology Optimisation: Spatial Invariance and Neural Tangent Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/2106.05710.pdf) | - |
+| Stability & Generalisation of Gradient Descent for Shallow Neural Networks without the Neural Tangent Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/2107.12723.pdf) | - |
+| Scaling Neural Tangent Kernels via Sketching and Random Features | NeurIPS | [PDF](https://arxiv.org/pdf/2106.07880.pdf) | - |
 | Wearing a MASK: Compressed Representations of Variable-Length Sequences Using Recurrent Neural Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2010.13975.pdf) | [CODE](https://github.com/dlej/MASK) |
 | The Dynamics of Gradient Descent for Overparametrized Neural Networks | L4DC | [PDF](https://arxiv.org/pdf/2105.06569.pdf) | - |
 | The Recurrent Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=3T9iFICe0Y9) | - |
