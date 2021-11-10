@@ -57,7 +57,6 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/2101.04243.pdf) | - |
 | Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel | arXiv | [PDF](https://arxiv.org/pdf/2103.11558.pdf) | [CODE](https://github.com/ASTAugustin/ICML_WNTK) |
 | Learning with Neural Tangent Kernels in Near Input Sparsity Time | arXiv | [PDF](https://arxiv.org/pdf/2104.00415.pdf) | - |
-| Random Features for the Neural Tangent Kernel | arXiv | [PDF](https://arxiv.org/pdf/2104.01351.pdf) | - |
 | Spectral Analysis of the Neural Tangent Kernel for Deep Residual Networks | arXiv | [PDF](https://arxiv.org/abs/2104.03093.pdf) | - |
 
 ## 2020
