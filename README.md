@@ -23,6 +23,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Deep Equals Shallow for ReLU Networks in Kernel Regimes | ICLR | [PDF](https://arxiv.org/pdf/2009.14397.pdf) | - |
 | A Recipe for Global Convergence Guarantee in Deep Neural Networks | AAAI | [PDF](https://arxiv.org/pdf/2104.05785.pdf) | - |
 | A Deep Conditioning Treatment of Neural Networks | ALT | [PDF](https://arxiv.org/pdf/2002.01523.pdf) | - |
+| Nonparametric Regression with Shallow Overparameterized Neural Networks Trained by GD with Early Stopping | COLT | [PDF](https://arxiv.org/pdf/2107.05341.pdf) | - |
 | Implicit Regularization via Neural Feature Alignment | AISTATS | [PDF](https://arxiv.org/pdf/2008.00938.pdf) | [CODE](https://github.com/tfjgeorge/ntk_alignment) |
 | Regularization Matters: A Nonparametric Perspective on Overparametrized Neural Network | AISTATS | [PDF](https://arxiv.org/pdf/2007.02486.pdf) | - |
 | One-pass Stochastic Gradient Descent in Overparametrized Two-layer Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2105.00262.pdf) | - |
@@ -36,6 +37,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Tight Bounds on the Smallest Eigenvalue of the Neural Tangent Kernel for Deep ReLU Networks | ICML | [PDF](https://arxiv.org/pdf/2012.11654.pdf) | - |
 | On the Generalization Power of Overfitted Two-Layer Neural Tangent Kernel Models | ICML | [PDF](https://arxiv.org/pdf/2103.05243.pdf) | - |
 | Tensor Programs IIb: Architectural Universality of Neural Tangent Kernel Training Dynamics | ICML | [PDF](https://arxiv.org/pdf/2105.03703.pdf) | - |
+| Tensor Programs IV: Feature Learning in Infinite-Width Neural Networks | ICML | [PDF](https://arxiv.org/pdf/2011.14522.pdf) | [CODE](https://github.com/edwardjhu/TP4) |
 | FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Convergence Analysis | ICML | [PDF](https://arxiv.org/pdf/2105.05001.pdf) | - |
 | On the Implicit Bias of Initialization Shape: Beyond Infinitesimal Mirror Descent | ICML | [PDF](https://arxiv.org/pdf/2102.09769.pdf) | - |
 | Feature Learning in Infinite-Width Neural Networks | ICML | [PDF](https://arxiv.org/pdf/2011.14522.pdf) | [CODE](https://github.com/edwardjhu/TP4) |
@@ -43,6 +45,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Uniform Convergence, Adversarial Spheres and a Simple Remedy | ICML | [PDF](https://arxiv.org/pdf/2105.03491.pdf) | - |
 | Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
 | Efficient Statistical Tests: A Neural Tangent Kernel Approach | ICML | [PDF](http://proceedings.mlr.press/v139/jia21a/jia21a.pdf) | - |
+| Neural Tangent Generalization Attacks | ICML | [PDF](http://proceedings.mlr.press/v139/yuan21b/yuan21b.pdf) | [CODE](https://github.com/lionelmessi6410/ntga) |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | IJCAI | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Towards Understanding the Spectral Bias of Deep Learning | IJCAI | [PDF](https://arxiv.org/pdf/1912.01198.pdf) | - |
 | On Random Kernels of Residual Architectures | UAI | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
