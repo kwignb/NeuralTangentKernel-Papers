@@ -10,8 +10,11 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective | ICLR | [PDF](https://arxiv.org/pdf/2103.03113.pdf) | - |
 | Overcoming The Spectral Bias of Neural Value Approximation | ICLR | [PDF](https://arxiv.org/pdf/2206.04672.pdf) | [CODE](https://www.episodeyang.com/ffn/) |
 | Efficient Computation of Deep Nonlinear Infinite-Width Neural Networks that Learn Features | ICLR | [PDF](https://openreview.net/pdf?id=tUMr0Iox8XW) | [CODE](https://github.com/santacml/pilim) |
+| Learning Neural Contextual Bandits Through Perturbed Rewards | ICLR | [PDF](https://arxiv.org/pdf/2201.09910.pdf) | - |
+| Neural Contextual Bandits without Regret | AISTATS | [PDF](https://arxiv.org/pdf/2107.03144.pdf) | - |
 | Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning | CVPR | [PDF](https://arxiv.org/pdf/2203.09137.pdf) | [CODE](https://github.com/YiteWang/MetaNTK-NAS) |
 | Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
+| Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 | Simple, Fast, and Flexible Framework for Matrix Completion with Infinite Width Neural Networks | PNAS | [PDF](https://arxiv.org/pdf/2108.00131.pdf) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 
@@ -25,6 +28,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Dataset Distillation with Infinitely Wide Convolutional Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2107.13034.pdf) | - |
 | On the Equivalence between Neural Network and Support Vector Machine | NeurIPS | [PDF](https://arxiv.org/pdf/2111.06063.pdf) | [CODE](https://github.com/leslie-CH/equiv-nn-svm) |
 | Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels | NeurIPS | [PDF](https://proceedings.neurips.cc/paper/2021/file/d064bf1ad039ff366564f352226e7640-Paper.pdf) | [CODE](https://github.com/skarp/local-signal-adaptivity) |
+| Explicit Loss Asymptotics in the Gradient Descent Training of Neural Networks | NeurIPS | [PDF](https://proceedings.neurips.cc/paper/2021/file/14faf969228fc18fcd4fcf59437b0c97-Paper.pdf) | - |
 | An Empirical Study of Neural Kernel Bandits | NeurIPS-W | [PDF](https://arxiv.org/pdf/2111.03543.pdf) | - |
 | Wearing a MASK: Compressed Representations of Variable-Length Sequences Using Recurrent Neural Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2010.13975.pdf) | [CODE](https://github.com/dlej/MASK) |
 | The Dynamics of Gradient Descent for Overparametrized Neural Networks | L4DC | [PDF](https://arxiv.org/pdf/2105.06569.pdf) | - |
