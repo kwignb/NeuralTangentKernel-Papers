@@ -2,6 +2,11 @@
 This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme or core idea.  
 *NOTE:* If there are any papers I've missed, please feel free to [raise an issue](https://github.com/kwignb/NeuralTangentKernel-Papers/issues).
 
+## 2022
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L)) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
+
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -48,6 +53,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Quantifying the Benefit of Using Differentiable Learning over Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2103.01210.pdf) | - |
 | Efficient Statistical Tests: A Neural Tangent Kernel Approach | ICML | [PDF](http://proceedings.mlr.press/v139/jia21a/jia21a.pdf) | - |
 | Neural Tangent Generalization Attacks | ICML | [PDF](http://proceedings.mlr.press/v139/yuan21b/yuan21b.pdf) | [CODE](https://github.com/lionelmessi6410/ntga) |
+| On the Random Conjugate Kernel and Neural Tangent Kernel | ICML | [PDF](http://proceedings.mlr.press/v139/hu21b/hu21b.pdf) | - |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | IJCAI | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Towards Understanding the Spectral Bias of Deep Learning | IJCAI | [PDF](https://arxiv.org/pdf/1912.01198.pdf) | - |
 | On Random Kernels of Residual Architectures | UAI | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
@@ -55,6 +61,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Benefits of Jointly Training Autoencoders: An Improved Neural Tangent Kernel Analysis | TIT | [PDF](https://arxiv.org/pdf/1911.11983.pdf) | - |
 | Reinforcement Learning via Gaussian Processes with Neural Network Dual Kernels | CoG | [PDF](https://arxiv.org/pdf/2004.05198.pdf) | - |
 | Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
+| Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory? | MSML | [PDF](https://proceedings.mlr.press/v145/seleznova22a/seleznova22a.pdf) | - |
 | Mathematical Models of Overparameterized Neural Networks | IEEE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9326403) | - |
 | Pathological spectra of the Fisher information metric and its variants in deep neural networks | NC | [PDF](https://arxiv.org/pdf/1910.05992.pdf) | - |
 | Linearized two-layers neural networks in high dimension | Ann. Statist. | [PDF](https://arxiv.org/pdf/1904.12191.pdf) | - |
@@ -83,6 +90,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | On Infinite-Width Hypernetworks | NeurIPS | [PDF](https://arxiv.org/pdf/2003.12193.pdf) | - |
 | Predicting Training Time Without Training | NeurIPS | [PDF](https://arxiv.org/pdf/2008.12478.pdf) | - |
 | Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/2010.15110.pdf) | - |
+| Spectra of the Conjugate Kernel and Neural Tangent Kernel for Linear-Width Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2005.11879.pdf) | - |
 | Kernel and Rich Regimes in Overparametrized Models | COLT | [PDF](https://arxiv.org/pdf/2002.09277.pdf) | - |
 | Learning Over-Parametrized Two-Layer ReLU Neural Networks beyond NTK | COLT | [PDF](https://arxiv.org/pdf/2007.04596.pdf) | - |
 | Finite Depth and Width Corrections to the Neural Tangent Kernel | ICLR | [PDF](https://openreview.net/pdf?id=SJgndT4KwB) | - |
