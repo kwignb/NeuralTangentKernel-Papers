@@ -7,6 +7,9 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | :-----|:-----:|:---:|:----:|
 | A Neural Tangent Kernel Perspective of Infinite Tree Ensembles | ICLR | [PDF](https://arxiv.org/pdf/2109.04983.pdf) | - |
 | Neural Networks as Kernel Learners: The Silent Alignment Effect | ICLR | [PDF](https://arxiv.org/pdf/2111.00034.pdf) | - |
+| Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective | ICLR | [PDF](https://arxiv.org/pdf/2103.03113.pdf) | - |
+| Overcoming The Spectral Bias of Neural Value Approximation | ICLR | [PDF](https://arxiv.org/pdf/2206.04672.pdf) | [CODE](https://www.episodeyang.com/ffn/) |
+| Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning | CVPR | [PDF](https://arxiv.org/pdf/2203.09137.pdf) | [CODE](https://github.com/YiteWang/MetaNTK-NAS) |
 | Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 
@@ -74,6 +77,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel | arXiv | [PDF](https://arxiv.org/pdf/2103.11558.pdf) | [CODE](https://github.com/ASTAugustin/ICML_WNTK) |
 | Learning with Neural Tangent Kernels in Near Input Sparsity Time | arXiv | [PDF](https://arxiv.org/pdf/2104.00415.pdf) | - |
 | Spectral Analysis of the Neural Tangent Kernel for Deep Residual Networks | arXiv | [PDF](https://arxiv.org/abs/2104.03093.pdf) | - |
+| A Neural Tangent Kernel Perspective of GANs | arXiv | [PDF](https://arxiv.org/pdf/2106.05566.pdf) | [CODE](https://github.com/emited/gantk2) |
+| Properties of the After Kernel | arXiv | [PDF](https://arxiv.org/pdf/2105.10585.pdf) | [CODE](https://github.com/google-research/google-research/tree/master/after_kernel) |
 
 ## 2020
 | Title | Venue | PDF | CODE |
