@@ -9,6 +9,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Networks as Kernel Learners: The Silent Alignment Effect | ICLR | [PDF](https://arxiv.org/pdf/2111.00034.pdf) | - |
 | Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective | ICLR | [PDF](https://arxiv.org/pdf/2103.03113.pdf) | - |
 | Overcoming The Spectral Bias of Neural Value Approximation | ICLR | [PDF](https://arxiv.org/pdf/2206.04672.pdf) | [CODE](https://www.episodeyang.com/ffn/) |
+| Efficient Computation of Deep Nonlinear Infinite-Width Neural Networks that Learn Features | ICLR | [PDF](https://openreview.net/pdf?id=tUMr0Iox8XW) | [CODE](https://github.com/santacml/pilim) |
 | Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning | CVPR | [PDF](https://arxiv.org/pdf/2203.09137.pdf) | [CODE](https://github.com/YiteWang/MetaNTK-NAS) |
 | Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
