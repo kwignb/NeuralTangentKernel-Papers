@@ -5,7 +5,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L)) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
+| Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 
 ## 2021
 | Title | Venue | PDF | CODE |
