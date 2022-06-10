@@ -5,6 +5,9 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| A Neural Tangent Kernel Perspective of Infinite Tree Ensembles | ICLR | [PDF](https://arxiv.org/pdf/2109.04983.pdf) | - |
+| Neural Networks as Kernel Learners: The Silent Alignment Effect | ICLR | [PDF](https://arxiv.org/pdf/2111.00034.pdf) | - |
+| Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 
 ## 2021
@@ -16,6 +19,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Scaling Neural Tangent Kernels via Sketching and Random Features | NeurIPS | [PDF](https://arxiv.org/pdf/2106.07880.pdf) | - |
 | Dataset Distillation with Infinitely Wide Convolutional Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2107.13034.pdf) | - |
 | On the Equivalence between Neural Network and Support Vector Machine | NeurIPS | [PDF](https://arxiv.org/pdf/2111.06063.pdf) | [CODE](https://github.com/leslie-CH/equiv-nn-svm) |
+| Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels | NeurIPS | [PDF](https://proceedings.neurips.cc/paper/2021/file/d064bf1ad039ff366564f352226e7640-Paper.pdf) | [CODE](https://github.com/skarp/local-signal-adaptivity) |
 | An Empirical Study of Neural Kernel Bandits | NeurIPS-W | [PDF](https://arxiv.org/pdf/2111.03543.pdf) | - |
 | Wearing a MASK: Compressed Representations of Variable-Length Sequences Using Recurrent Neural Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2010.13975.pdf) | [CODE](https://github.com/dlej/MASK) |
 | The Dynamics of Gradient Descent for Overparametrized Neural Networks | L4DC | [PDF](https://arxiv.org/pdf/2105.06569.pdf) | - |
