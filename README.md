@@ -12,6 +12,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning | CVPR | [PDF](https://arxiv.org/pdf/2203.09137.pdf) | [CODE](https://github.com/YiteWang/MetaNTK-NAS) |
 | Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
+| Simple, Fast, and Flexible Framework for Matrix Completion with Infinite Width Neural Networks | PNAS | [PDF](https://arxiv.org/pdf/2108.00131.pdf) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 
 ## 2021
 | Title | Venue | PDF | CODE |
@@ -38,6 +39,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | A Recipe for Global Convergence Guarantee in Deep Neural Networks | AAAI | [PDF](https://arxiv.org/pdf/2104.05785.pdf) | - |
 | A Deep Conditioning Treatment of Neural Networks | ALT | [PDF](https://arxiv.org/pdf/2002.01523.pdf) | - |
 | Nonparametric Regression with Shallow Overparameterized Neural Networks Trained by GD with Early Stopping | COLT | [PDF](https://arxiv.org/pdf/2107.05341.pdf) | - |
+| Learning with invariances in random features and kernel models | COLT | [PDF](https://arxiv.org/pdf/2102.13219.pdf) | - |
 | Implicit Regularization via Neural Feature Alignment | AISTATS | [PDF](https://arxiv.org/pdf/2008.00938.pdf) | [CODE](https://github.com/tfjgeorge/ntk_alignment) |
 | Regularization Matters: A Nonparametric Perspective on Overparametrized Neural Network | AISTATS | [PDF](https://arxiv.org/pdf/2007.02486.pdf) | - |
 | One-pass Stochastic Gradient Descent in Overparametrized Two-layer Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2105.00262.pdf) | - |
@@ -129,6 +131,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Disentangling feature and lazy training in deep neural networks | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1906.08034.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Scaling description of generalization with number of parameters in deep learning | J. Stat. Mech. | [PDF](https://arxiv.org/pdf/1901.01608.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/article) |
 | Any Target Function Exists in a Neighborhood of Any Sufficiently Wide Random Network: A Geometrical Perspective | NC | [PDF](https://arxiv.org/pdf/2001.06931.pdf) | - |
+| Kolmogorov Width Decay and Poor Approximation in Machine Learning: Shallow Neural Networks, Random Feature Models and Neural Tangent Kernels | RMS | [PDF](https://arxiv.org/pdf/2005.10807.pdf) | - |
 | On the infinite width limit of neural networks with a standard parameterization | arXiv | [PDF](https://arxiv.org/pdf/2001.07301.pdf) | [CODE](https://github.com/google/neural-tangents) |
 | On the Empirical Neural Tangent Kernel of Standard Finite-Width Convolutional Neural Network Architectures | arXiv | [PDF](https://arxiv.org/pdf/2006.13645.pdf) | - |
 | Infinite-Width Neural Networks for Any Architecture: Reference Implementations | arXiv | [PDF](https://arxiv.org/pdf/2006.14548.pdf) | [CODE](https://github.com/thegregyang/NTK4A) |
