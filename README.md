@@ -14,6 +14,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Contextual Bandits without Regret | AISTATS | [PDF](https://arxiv.org/pdf/2107.03144.pdf) | - |
 | Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning | CVPR | [PDF](https://arxiv.org/pdf/2203.09137.pdf) | [CODE](https://github.com/YiteWang/MetaNTK-NAS) |
 | Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
+| On the Empirical Neural Tangent Kernel of Standard Finite-Width Convolutional Neural Network Architectures | UAI | [PDF](https://arxiv.org/pdf/2006.13645.pdf) | - |
 | Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | AABI | [PDF](https://openreview.net/pdf?id=ym68T6OoO6L) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
 | Simple, Fast, and Flexible Framework for Matrix Completion with Infinite Width Neural Networks | PNAS | [PDF](https://arxiv.org/pdf/2108.00131.pdf) | [CODE](https://github.com/iclr2022anon/fast_finite_width_ntk) |
@@ -68,15 +69,19 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Efficient Statistical Tests: A Neural Tangent Kernel Approach | ICML | [PDF](http://proceedings.mlr.press/v139/jia21a/jia21a.pdf) | - |
 | Neural Tangent Generalization Attacks | ICML | [PDF](http://proceedings.mlr.press/v139/yuan21b/yuan21b.pdf) | [CODE](https://github.com/lionelmessi6410/ntga) |
 | On the Random Conjugate Kernel and Neural Tangent Kernel | ICML | [PDF](http://proceedings.mlr.press/v139/hu21b/hu21b.pdf) | - |
+| Generalization Guarantees for Neural Architecture Search with Train-Validation Split | ICML | [PDF](https://arxiv.org/pdf/2104.14132.pdf) | - |
 | On the Neural Tangent Kernel of Deep Networks with Orthogonal Initialization | IJCAI | [PDF](https://arxiv.org/pdf/2004.05867.pdf) | [CODE](https://github.com/WeiHuang05/Neural-Tangent-Kernel-with-Orthogonal-Initialization) |
 | Towards Understanding the Spectral Bias of Deep Learning | IJCAI | [PDF](https://arxiv.org/pdf/1912.01198.pdf) | - |
 | On Random Kernels of Residual Architectures | UAI | [PDF](https://arxiv.org/pdf/2001.10460.pdf) | - |
+| Trust Your Robots! Predictive Uncertainty Estimation of Neural Networks with Sparse Gaussian Processes | CoRL | [PDF](https://arxiv.org/pdf/2109.09690.pdf) | - |
+| How Shrinking Gradient Noise Helps the Performance of Neural Networks | ICBD | [PDF](https://www.researchgate.net/profile/Zhun-Deng/publication/356891225_The_Role_of_Gradient_Noise_in_the_Optimization_of_Neural_Networks/links/61b1729c4d7ff64f053691b1/The-Role-of-Gradient-Noise-in-the-Optimization-of-Neural-Networks.pdf) | - |
 | Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective | ACM TOG | [PDF](https://arxiv.org/pdf/2104.09023.pdf) | - |
 | Benefits of Jointly Training Autoencoders: An Improved Neural Tangent Kernel Analysis | TIT | [PDF](https://arxiv.org/pdf/1911.11983.pdf) | - |
 | Reinforcement Learning via Gaussian Processes with Neural Network Dual Kernels | CoG | [PDF](https://arxiv.org/pdf/2004.05198.pdf) | - |
 | Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
 | Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory? | MSML | [PDF](https://proceedings.mlr.press/v145/seleznova22a/seleznova22a.pdf) | - |
 | Mathematical Models of Overparameterized Neural Networks | IEEE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9326403) | - |
+| A Feature Fusion Based Indicator for Training-Free Neural Architecture Search | IEEE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9548935) | - |
 | Pathological spectra of the Fisher information metric and its variants in deep neural networks | NC | [PDF](https://arxiv.org/pdf/1910.05992.pdf) | - |
 | Linearized two-layers neural networks in high dimension | Ann. Statist. | [PDF](https://arxiv.org/pdf/1904.12191.pdf) | - |
 | Geometric compression of invariant manifolds in neural nets | J. Stat. Mech. | [PDF](https://www.researchgate.net/profile/Leonardo-Petrini-2/publication/343150406_Compressing_invariant_manifolds_in_neural_nets/links/602e34cda6fdcc37a8339aff/Compressing-invariant-manifolds-in-neural-nets.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/compressing_invariant_manifolds) |
