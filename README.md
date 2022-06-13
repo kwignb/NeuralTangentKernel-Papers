@@ -50,7 +50,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Regularization Matters: A Nonparametric Perspective on Overparametrized Neural Network | AISTATS | [PDF](https://arxiv.org/pdf/2007.02486.pdf) | - |
 | One-pass Stochastic Gradient Descent in Overparametrized Two-layer Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2105.00262.pdf) | - |
 | Fast Adaptation with Linearized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2103.01439.pdf) | [CODE](https://github.com/amzn/xfer/tree/master/finite_ntk) |
-| Fast Learning in Reproducing Kernel Kre˘ın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
+| Fast Learning in Reproducing Kernel Kreın Spaces via Signed Measures | AISTATS | [PDF](https://arxiv.org/pdf/2006.00247.pdf) | - |
 | Stable ResNet | AISTATS | [PDF](https://arxiv.org/pdf/2010.12859.pdf) | - |
 | A Dynamical View on Optimization Algorithms of Overparameterized Neural Networks | AISTATS | [PDF](https://arxiv.org/pdf/2010.13165.pdf) | - |
 | Can We Characterize Tasks Without Labels or Features? | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.pdf) | [CODE](https://github.com/BramSW/task_characterization_cvpr_2021) |
