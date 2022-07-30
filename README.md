@@ -6,7 +6,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | NFT-K: Non-Fungible Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2110.04945.pdf) | [CODE](https://gitlab.com/cjbarb7/icassp2022) |
-| LABEL PROPAGATION ACROSS GRAPHS: NODE CLASSIFICATION USING GRAPH NEURAL TANGENT KERNELS | ICASSP | [PDF](https://arxiv.org/pdf/2110.03763.pdf) | - |
+| Label Propagation Across Grapsh: Node Classification Using Graph Neural Tangent Kenrels | ICASSP | [PDF](https://arxiv.org/pdf/2110.03763.pdf) | - |
 | A Neural Tangent Kernel Perspective of Infinite Tree Ensembles | ICLR | [PDF](https://arxiv.org/pdf/2109.04983.pdf) | - |
 | Neural Networks as Kernel Learners: The Silent Alignment Effect | ICLR | [PDF](https://arxiv.org/pdf/2111.00034.pdf) | - |
 | Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective | ICLR | [PDF](https://arxiv.org/pdf/2103.03113.pdf) | - |
