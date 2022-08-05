@@ -30,6 +30,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Bounding the Width of Neural Networks via Coupled Initialization – A Worst Case Analysis – | ICML | [PDF](https://proceedings.mlr.press/v162/woodruff22a/woodruff22a.pdf) | - |
 | Leverage Score Sampling for Tensor Product Matrices in Input Sparsity Time | ICML | [PDF](https://proceedings.mlr.press/v162/munteanu22a/munteanu22a.pdf) | - |
 | Lazy Estimation of Variable Importance for Large Neural Networks | ICML | [PDF](https://proceedings.mlr.press/v162/gao22h/gao22h.pdf) | - |
+| DAVINZ: Data Valuation using Deep Neural Networks at Initialization | ICML | [PDF](https://proceedings.mlr.press/v162/wu22j/wu22j.pdf) | - |
 | Fast Graph Neural Tangent Kernel via Kronecker Sketching | AAAI | [PDF](https://arxiv.org/pdf/2112.02446.pdf) | - |
 | Rethinking Influence Functions of Neural Networks in the Over-parameterized Regime | AAAI | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-5153.ZhangR.pdf) | - |
 | On the Empirical Neural Tangent Kernel of Standard Finite-Width Convolutional Neural Network Architectures | UAI | [PDF](https://arxiv.org/pdf/2006.13645.pdf) | - |
