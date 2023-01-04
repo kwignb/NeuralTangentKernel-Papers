@@ -9,7 +9,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | GraphQNTK: Quantum Neural Tangent Kernel for Graph Data | NeurIPS | [PDF](https://openreview.net/pdf?id=RBhIkQRpzFK) | [CODE](https://github.com/abel1231/graphQNTK) |
 | Evolution of Neural Tangent Kernels under Benign and Adversarial Training | NeurIPS | [PDF](https://arxiv.org/pdf/2210.12030.pdf) | [CODE](https://github.com/yolky/adversarial_ntk_evolution) |
 | TCT: Convexifying Federated Learning using Bootstrapped Neural Tangent Kernels | NeurIPS | [PDF](https://download.arxiv.org/pdf/2207.06343v2) | [CODE](https://github.com/yaodongyu/TCT) |
-| Making Look-Ahead Active Learning Strategies Feasible with Neural Tangent Kernels | NeurIPS | [PDF](https://download.arxiv.org/pdf/2206.12569v1) | - |
+| Making Look-Ahead Active Learning Strategies Feasible with Neural Tangent Kernels | NeurIPS | [PDF](https://download.arxiv.org/pdf/2206.12569v1) | [CODE](https://github.com/mohamad-amin/ntk-lookahead-active-learning) |
 | Disentangling the Predictive Variance of Deep Ensembles through the Neural Tangent Kernel | NeurIPS | [PDF](https://download.arxiv.org/pdf/2210.09818v1) | [CODE](https://github.com/seijin-kobayashi/disentangle-predvar) |
 | On the Generalization Power of the Overfitted Three-Layer Neural Tangent Kernel Model | NeurIPS | [PDF](https://download.arxiv.org/pdf/2206.02047v1) | - |
 | What Can the Neural Tangent Kernel Tell Us About Adversarial Robustness? | NeurIPS | [PDF](https://download.arxiv.org/pdf/2210.05577v1) | - |
