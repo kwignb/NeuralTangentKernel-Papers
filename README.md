@@ -2,9 +2,15 @@
 This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme or core idea.  
 *NOTE:* If there are any papers I've missed, please feel free to [raise an issue](https://github.com/kwignb/NeuralTangentKernel-Papers/issues).
 
+## 2023
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Deep Learning in Random Neural Fields: Numerical Experiments via Neural Tangent Kernel | NN | [PDF](https://arxiv.org/pdf/2202.05254.pdf) | [CODE](https://github.com/kwignb/RandomNeuralField) |
+
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Graph Neural Network Bandits | NeurIPS | [PDF](https://arxiv.org/pdf/2207.06456.pdf) | - |
 | Lossless Compression of Deep Neural Networks: A High-dimensional Neural Tangent Kernel Approach | NeurIPS | [PDF](https://zhenyu-liao.github.io/pdf/conf/RMT4DeepCompress_nips22.pdf) | - |
 | GraphQNTK: Quantum Neural Tangent Kernel for Graph Data | NeurIPS | [PDF](https://openreview.net/pdf?id=RBhIkQRpzFK) | [CODE](https://github.com/abel1231/graphQNTK) |
 | Evolution of Neural Tangent Kernels under Benign and Adversarial Training | NeurIPS | [PDF](https://arxiv.org/pdf/2210.12030.pdf) | [CODE](https://github.com/yolky/adversarial_ntk_evolution) |
@@ -44,6 +50,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | A Structured Dictionary Perspective on Implicit Neural Representations | CVPR | [PDF](https://arxiv.org/pdf/2112.01917.pdf) | [CODE](https://github.com/gortizji/inr_dictionaries) |
 | NL-FFC: Non-Local Fast Fourier Convolution for Image Super Resolution | CVPR-W | [PDF](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Sinha_NL-FFC_Non-Local_Fast_Fourier_Convolution_for_Image_Super_Resolution_CVPRW_2022_paper.pdf) | [CODE](https://github.com/gortizji/inr_dictionaries) |
 | Intrinsic Neural Fields: Learning Functions on Manifolds | ECCV | [PDF](https://vision.in.tum.de/_media/spezial/bib/koestler2022intrinsic.pdf) | - |
+| Random Gegenbauer Features for Scalable Kernel Methods | ICML | [PDF](https://arxiv.org/pdf/2202.03474.pdf) | - |
 | Fast Finite Width Neural Tangent Kernel | ICML | [PDF](https://proceedings.mlr.press/v162/novak22a/novak22a.pdf) | [CODE](https://github.com/google/neural-tangents) |
 | A Neural Tangent Kernel Perspective of GANs | ICML | [PDF](https://proceedings.mlr.press/v162/franceschi22a/franceschi22a.pdf) | [CODE](https://github.com/emited/gantk2) |
 | Neural Tangent Kernel Empowered Federated Learning | ICML | [PDF](https://proceedings.mlr.press/v162/yue22a/yue22a.pdf) | - |
@@ -63,12 +70,13 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Feature Learning and Random Features in Standard Finite-Width Convolutional Neural Networks: An Empirical Study | UAI | [PDF](https://openreview.net/pdf?id=ScIEZdIiqe5) | - |
 | Learning Neural Ranking Models Online from Implicit User Feedback | WWW | [PDF](https://arxiv.org/pdf/2201.06658.pdf) | - |
 | Trust Your Robots! Predictive Uncertainty Estimation of Neural Networks with Sparse Gaussian Processes | CoRL | [PDF](https://arxiv.org/pdf/2109.09690.pdf) | - |
+| When and why PINNs fail to train: A neural tangent kernel perspective | CP | [PDF](https://arxiv.org/pdf/2007.14527.pdf) | [CODE](https://github.com/PredictiveIntelligenceLab/PINNsNTK ) |
 | How Neural Architectures Affect Deep Learning for Communication Networks? | ICC | [PDF](https://arxiv.org/pdf/2111.02215.pdf) | - |
 | Loss landscapes and optimization in over-parameterized non-linear systems and neural networks | ACHA | [PDF](https://arxiv.org/pdf/2003.00307.pdf) | - |
 | Feature Purification: How Adversarial Training Performs Robust Deep Learning | FOCS | [PDF](https://arxiv.org/pdf/2005.10190.pdf) | - |
 | Kernel-Based Smoothness Analysis of Residual Networks | MSML | [PDF](https://arxiv.org/pdf/2009.10008.pdf) | - |
 | Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory? | MSML | [PDF](https://proceedings.mlr.press/v145/seleznova22a/seleznova22a.pdf) | - |
-| The Training Response Law Explains How Deep Neural Networks Learn | JoP | [PDF](https://arxiv.org/pdf/2204.07291.pdf) | - |
+| The Training Response Law Explains How Deep Neural Networks Learn | IoP | [PDF](https://arxiv.org/pdf/2204.07291.pdf) | - |
 | Simple, Fast, and Flexible Framework for Matrix Completion with Infinite Width Neural Networks | PNAS | [PDF](https://arxiv.org/pdf/2108.00131.pdf) | [CODE](https://github.com/uhlerlab/ntk_matrix_completion) |
 | Representation Learning via Quantum Neural Tangent Kernels | PRX Quantum | [PDF](https://arxiv.org/pdf/2111.04225.pdf) | - |
 | TorchNTK: A Library for Calculation of Neural Tangent Kernels of PyTorch Models | arXiv | [PDF](https://arxiv.org/pdf/2205.12372.pdf) | [CODE](https://github.com/pnnl/torchntk) |
