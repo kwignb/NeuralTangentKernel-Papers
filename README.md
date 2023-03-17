@@ -16,7 +16,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Tuning Frequency Bias in Neural Network Training with Nonuniform Data | ICLR | [PDF](https://arxiv.org/pdf/2205.14300.pdf) | - |
 | Simple initialization and parametrization of sinusoidal networks via their kernel bandwidth | ICLR | [PDF](https://arxiv.org/pdf/2211.14503.pdf) | - |
 | Characterizing the spectrum of the NTK via a power series expansion | ICLR | [PDF](https://arxiv.org/pdf/2211.07844.pdf) | [CODE](https://github.com/bbowman223/data_ntk) |
-| Adaptive Optimization in the $$\infty$$-Width Limit | ICLR | [PDF](https://openreview.net/pdf?id=zgVDqw9ZUES) | - |
+| Adaptive Optimization in the $\infty$-Width Limit | ICLR | [PDF](https://openreview.net/pdf?id=zgVDqw9ZUES) | - |
 | Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization | ICLR | [PDF](https://arxiv.org/pdf/2108.11371.pdf) | - |
 | The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes | ICLR | [PDF](https://arxiv.org/pdf/2212.12147.pdf) | - |
 | Restricted Strong Convexity of Deep Learning Models with Smooth Activations | ICLR | [PDF](https://arxiv.org/pdf/2209.15106.pdf) | - |
