@@ -5,6 +5,22 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2023
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| A Kernel Perspective of Skip Connections in Convolutional Networks | ICLR | [PDF](https://arxiv.org/pdf/2211.14810.pdf) | - |
+| Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2209.15208.pdf) | - |
+| Symmetric Pruning in Quantum Neural Networks | ICLR | [PDF](https://arxiv.org/pdf/2208.14057.pdf) | - |
+| The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks | ICLR | [PDF](https://arxiv.org/pdf/2210.02157.pdf) | - |
+| Few-shot Backdoor Attacks via Neural Tangent Kernels | ICLR | [PDF](https://arxiv.org/pdf/2210.05929.pdf) | - |
+| Analyzing Tree Architectures in Ensembles via Neural Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2205.12904.pdf) | - |
+| Supervision Complexity and its Role in Knowledge Distillation | ICLR | [PDF](https://arxiv.org/pdf/2301.12245.pdf) | - |
+| NTK-SAP: Improving Neural Network Pruning By Aligning Training Dynamics | ICLR | [PDF](https://openreview.net/pdf?id=-5EWhW_4qWP) | [CODE](https://github.com/YiteWang/NTK-SAP) |
+| Tuning Frequency Bias in Neural Network Training with Nonuniform Data | ICLR | [PDF](https://arxiv.org/pdf/2205.14300.pdf) | - |
+| Simple initialization and parametrization of sinusoidal networks via their kernel bandwidth | ICLR | [PDF](https://arxiv.org/pdf/2211.14503.pdf) | - |
+| Characterizing the spectrum of the NTK via a power series expansion | ICLR | [PDF](https://arxiv.org/pdf/2211.07844.pdf) | [CODE](https://github.com/bbowman223/data_ntk) |
+| Adaptive Optimization in the \infty-Width Limit | ICLR | [PDF](https://openreview.net/pdf?id=zgVDqw9ZUES) | - |
+| Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization | ICLR | [PDF](https://arxiv.org/pdf/2108.11371.pdf) | - |
+| The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes | ICLR | [PDF](https://arxiv.org/pdf/2212.12147.pdf) | - |
+| Restricted Strong Convexity of Deep Learning Models with Smooth Activations | ICLR | [PDF](https://arxiv.org/pdf/2209.15106.pdf) | - |
+| Feature selection and low test error in shallow low-rotation ReLU networks | ICLR | [PDF](https://arxiv.org/pdf/2208.02789.pdf) | - |
 | Deep Learning in Random Neural Fields: Numerical Experiments via Neural Tangent Kernel | NN | [PDF](https://arxiv.org/pdf/2202.05254.pdf) | [CODE](https://github.com/kwignb/RandomNeuralField) |
 
 ## 2022
@@ -28,6 +44,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Spectral Bias Outside the Training Set for Deep Networks in the Kernel Regime | NeurIPS | [PDF](https://arxiv.org/pdf/2206.02927.pdf) | [CODE](https://github.com/bbowman223/deepspec) |
 | Transition to Linearity of General Neural Networks with Directed Acyclic Graph Architecture | NeurIPS | [PDF](https://arxiv.org/pdf/2209.07263.pdf) | - |
 | Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization) | NeurIPS | [PDF](https://arxiv.org/pdf/2205.11786.pdf) | - |
+| A Neural Pre-Conditioning Active Learning Algorithm to Reduce Label Complexity | NeurIPS | [PDF](https://arxiv.org/pdf/2104.03525.pdf) | - |
 | NFT-K: Non-Fungible Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2110.04945.pdf) | [CODE](https://gitlab.com/cjbarb7/icassp2022) |
 | Label Propagation Across Grapsh: Node Classification Using Graph Neural Tangent Kenrels | ICASSP | [PDF](https://arxiv.org/pdf/2110.03763.pdf) | - |
 | A Neural Tangent Kernel Perspective of Infinite Tree Ensembles | ICLR | [PDF](https://arxiv.org/pdf/2109.04983.pdf) | - |
