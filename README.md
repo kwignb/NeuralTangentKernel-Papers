@@ -42,8 +42,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Distribution-Informed Neural Networks for Domain Adaptation Regression | NeurIPS | [PDF](https://openreview.net/pdf?id=8hoDLRLtl9h) | - |
 | Self-Consistent Dynamical Field Theory of Kernel Evolution in Wide Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2205.09653.pdf) | - |
 | Spectral Bias Outside the Training Set for Deep Networks in the Kernel Regime | NeurIPS | [PDF](https://arxiv.org/pdf/2206.02927.pdf) | [CODE](https://github.com/bbowman223/deepspec) |
-| Transition to Linearity of General Neural Networks with Directed Acyclic Graph Architecture | NeurIPS | [PDF](https://arxiv.org/pdf/2209.07263.pdf) | - |
-| Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization) | NeurIPS | [PDF](https://arxiv.org/pdf/2205.11786.pdf) | - |
+| Robustness in deep learning: The good (width), the bad (depth), and the ugly (initialization) | NeurIPS | [PDF](https://arxiv.org/pdf/2209.07263.pdf) | - |
+| Transition to Linearity of General Neural Networks with Directed Acyclic Graph Architecture | NeurIPS | [PDF](https://arxiv.org/pdf/2205.11786.pdf) | - |
 | A Neural Pre-Conditioning Active Learning Algorithm to Reduce Label Complexity | NeurIPS | [PDF](https://arxiv.org/pdf/2104.03525.pdf) | - |
 | NFT-K: Non-Fungible Tangent Kernels | ICASSP | [PDF](https://arxiv.org/pdf/2110.04945.pdf) | [CODE](https://gitlab.com/cjbarb7/icassp2022) |
 | Label Propagation Across Grapsh: Node Classification Using Graph Neural Tangent Kenrels | ICASSP | [PDF](https://arxiv.org/pdf/2110.03763.pdf) | - |
