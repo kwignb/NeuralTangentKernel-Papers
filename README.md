@@ -26,6 +26,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Generalization Properties of NAS under Activation and Skip Connection Search | NeurIPS | [PDF](https://arxiv.org/pdf/2209.07238.pdf) | - |
+| Extrapolation and Spectral Bias of Neural Nets with Hadamard Product: a Polynomial Net Study | NeurIPS | [PDF](https://arxiv.org/pdf/2209.07736.pdf) | [CODE](https://github.com/LIONS-EPFL/pntk) |
 | Graph Neural Network Bandits | NeurIPS | [PDF](https://arxiv.org/pdf/2207.06456.pdf) | - |
 | Lossless Compression of Deep Neural Networks: A High-dimensional Neural Tangent Kernel Approach | NeurIPS | [PDF](https://zhenyu-liao.github.io/pdf/conf/RMT4DeepCompress_nips22.pdf) | - |
 | GraphQNTK: Quantum Neural Tangent Kernel for Graph Data | NeurIPS | [PDF](https://openreview.net/pdf?id=RBhIkQRpzFK) | [CODE](https://github.com/abel1231/graphQNTK) |
