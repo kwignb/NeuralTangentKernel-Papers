@@ -21,6 +21,12 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes | ICLR | [PDF](https://arxiv.org/pdf/2212.12147.pdf) | - |
 | Restricted Strong Convexity of Deep Learning Models with Smooth Activations | ICLR | [PDF](https://arxiv.org/pdf/2209.15106.pdf) | - |
 | Feature selection and low test error in shallow low-rotation ReLU networks | ICLR | [PDF](https://arxiv.org/pdf/2208.02789.pdf) | - |
+| A Fast, Well-Founded Approximation to the Empirical Neural Tangent Kernel | ICML | [PDF](https://arxiv.org/pdf/2206.12543v1.pdf) | - |
+| Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2306.03968.pdf) | [CODE](https://github.com/AlexImmer/ntk-marglik) |
+| Graph Neural Tangent Kernel: Convergence on Large Graphs | ICML | [PDF](https://arxiv.org/pdf/2301.10808.pdf) | - |
+| Beyond the Universal Law of Robustness: Sharper Laws for Random Features and Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2302.01629.pdf) | [CODE](https://github.com/simone-bombari/beyond-universal-robustness) |
+| Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2303.14844.pdf) | - |
+| Benign Overfitting in Deep Neural Networks under Lazy Training | ICML | [PDF](https://arxiv.org/pdf/2305.19377.pdf) | - |
 | Deep Learning in Random Neural Fields: Numerical Experiments via Neural Tangent Kernel | NN | [PDF](https://arxiv.org/pdf/2202.05254.pdf) | [CODE](https://github.com/kwignb/RandomNeuralField) |
 
 ## 2022
