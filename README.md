@@ -251,7 +251,6 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | On the Inductive Bias of Neural Tangent Kernels | NeurIPS | [PDF](https://arxiv.org/pdf/1905.12173.pdf) | [CODE](https://github.com/albietz/ckn_kernel) |
 | Convergence of Adversarial Training in Overparametrized Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1906.07916.pdf) | - |
 | Generalization Bounds of Stochastic Gradient Descent for Wide and Deep Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1905.13210.pdf) | - |
-| Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel | NeurIPS | [PDF](https://arxiv.org/pdf/1810.05369.pdf) | - |
 | Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers | NeurIPS | [PDF](https://arxiv.org/pdf/1811.04918.pdf) | - |
 | Limitations of Lazy Training of Two-layers Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/1906.08899.pdf) | - |
 | The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies | NeurIPS | [PDF](https://arxiv.org/pdf/1906.00425.pdf) | [CODE](https://github.com/ykasten/Convergence-Rate-NN-Different-Frequencies) |
