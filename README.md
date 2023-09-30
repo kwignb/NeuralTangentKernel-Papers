@@ -21,13 +21,25 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes | ICLR | [PDF](https://arxiv.org/pdf/2212.12147.pdf) | - |
 | Restricted Strong Convexity of Deep Learning Models with Smooth Activations | ICLR | [PDF](https://arxiv.org/pdf/2209.15106.pdf) | - |
 | Feature selection and low test error in shallow low-rotation ReLU networks | ICLR | [PDF](https://arxiv.org/pdf/2208.02789.pdf) | - |
+| On the Neural Tangent Kernel Analysis of Randomly Pruned Neural Networks | AISTATS | [PDF](https://proceedings.mlr.press/v206/yang23b/yang23b.pdf) | - |
+| Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks | AISTATS | [PDF](https://proceedings.mlr.press/v206/zhang23d/zhang23d.pdf) | - |
 | A Fast, Well-Founded Approximation to the Empirical Neural Tangent Kernel | ICML | [PDF](https://arxiv.org/pdf/2206.12543v1.pdf) | - |
 | Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2306.03968.pdf) | [CODE](https://github.com/AlexImmer/ntk-marglik) |
 | Graph Neural Tangent Kernel: Convergence on Large Graphs | ICML | [PDF](https://arxiv.org/pdf/2301.10808.pdf) | - |
 | Beyond the Universal Law of Robustness: Sharper Laws for Random Features and Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2302.01629.pdf) | [CODE](https://github.com/simone-bombari/beyond-universal-robustness) |
 | Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2303.14844.pdf) | - |
 | Benign Overfitting in Deep Neural Networks under Lazy Training | ICML | [PDF](https://arxiv.org/pdf/2305.19377.pdf) | - |
+| Gradient Descent in Neural Networks as Sequential Learning in Reproducing Kernel Banach Space | ICML | [PDF](https://openreview.net/pdf?id=nCukQnbhp5) | - |
+| A Kernel-Based View of Language Model Fine-Tuning | ICML | [PDF](https://proceedings.mlr.press/v202/malladi23a/malladi23a.pdf) | - |
+| Reward-Biased Maximum Likelihood Estimation for Neural Contextual Bandits | AAAI | [PDF](https://arxiv.org/pdf/2203.04192.pdf) | - |
+| Neural tangent kernel at initialization: linear width suffices | UAI | [PDF](https://proceedings.mlr.press/v216/banerjee23a.html) | - |
+| Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection | TMLR | [PDF](https://openreview.net/pdf?id=nEX2q5B2RQ) | - |
+| A Continual Learning Algorithm Based on Orthogonal Gradient Descent Beyond Neural Tangent Kernel Regime | IEEE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10213447) | - |
+| The Quantum Path Kernel: A Generalized Neural Tangent Kernel for Deep Quantum Machine Learning | QE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158043) | - |
 | Deep Learning in Random Neural Fields: Numerical Experiments via Neural Tangent Kernel | NN | [PDF](https://arxiv.org/pdf/2202.05254.pdf) | [CODE](https://github.com/kwignb/RandomNeuralField) |
+| A non-gradient method for solving elliptic partial differential equations with deep neural networks | JoCP | [PDF](https://ins.sjtu.edu.cn/people/xuzhiqin/pub/nongradpde.pdf) | - |
+| Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism | JoCP | [PDF](https://arxiv.org/pdf/2009.04544.pdf) | - |
+| Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel | ML | [PDF](https://arxiv.org/pdf/2103.11558.pdf) | [CODE](https://github.com/ASTAugustin/WNTK_Machine_Learning) |
 
 ## 2022
 | Title | Venue | PDF | CODE |
@@ -178,7 +190,6 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Linearized two-layers neural networks in high dimension | Ann. Statist. | [PDF](https://arxiv.org/pdf/1904.12191.pdf) | - |
 | Geometric compression of invariant manifolds in neural nets | J. Stat. Mech. | [PDF](https://www.researchgate.net/profile/Leonardo-Petrini-2/publication/343150406_Compressing_invariant_manifolds_in_neural_nets/links/602e34cda6fdcc37a8339aff/Compressing-invariant-manifolds-in-neural-nets.pdf) | [CODE](https://github.com/mariogeiger/feature_lazy/tree/compressing_invariant_manifolds) |
 | A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks | arXiv | [PDF](https://arxiv.org/pdf/2101.04243.pdf) | - |
-| Weighted Neural Tangent Kernel: A Generalized and Improved Network-Induced Kernel | arXiv | [PDF](https://arxiv.org/pdf/2103.11558.pdf) | [CODE](https://github.com/ASTAugustin/ICML_WNTK) |
 | Learning with Neural Tangent Kernels in Near Input Sparsity Time | arXiv | [PDF](https://arxiv.org/pdf/2104.00415.pdf) | - |
 | Spectral Analysis of the Neural Tangent Kernel for Deep Residual Networks | arXiv | [PDF](https://arxiv.org/abs/2104.03093.pdf) | - |
 | Properties of the After Kernel | arXiv | [PDF](https://arxiv.org/pdf/2105.10585.pdf) | [CODE](https://github.com/google-research/google-research/tree/master/after_kernel) |
