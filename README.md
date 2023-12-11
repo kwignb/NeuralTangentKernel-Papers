@@ -13,6 +13,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Feature-Learning Networks Are Consistent Across Widths At Realistic Scales | NeurIPS | [PDF](https://arxiv.org/pdf/2305.18411.pdf) | - |
 | Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean Field Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2304.03408.pdf) | [CODE](https://github.com/Pehlevan-Group/dmft_fluctuations) |
 | Spectral Evolution and Invariance in Linear-width Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2211.06506.pdf) | - |
+| Analyzing Generalization of Neural Networks through Loss Path Kernels | NeurIPS | [PDF](https://openreview.net/pdf?id=8Ba7VJ7xiM) | - |
 | A PAC-Bayesian Perspective on the Interpolating Information Criterion | NeurIPS-W | [PDF](https://arxiv.org/pdf/2311.07013.pdf) | - |
 | A Kernel Perspective of Skip Connections in Convolutional Networks | ICLR | [PDF](https://arxiv.org/pdf/2211.14810.pdf) | - |
 | Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2209.15208.pdf) | - |
@@ -54,6 +55,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection | TMLR | [PDF](https://openreview.net/pdf?id=nEX2q5B2RQ) | - |
 | The Eigenlearning Framework: A Conservation Law Perspective on Kernel Regression and Wide Neural Networks | TMLR | [PDF](https://arxiv.org/pdf/2110.03922.pdf) | [CODE](https://github.com/james-simon/eigenlearning) |
 | Empirical Limitations of the NTK for Understanding Scaling Laws in Deep Learning | TMLR | [PDF](https://openreview.net/pdf?id=Y3saBb7mCE) | - |
+| Analysis of Convolutions, Non-linearity and Depth in Graph Neural Networks using Neural Tangent Kernel | TMLR | [PDF](https://openreview.net/pdf?id=xgYgDEof29) | - |
 | A Framework and Benchmark for Deep Batch Active Learning for Regression | JMLR | [PDF](https://arxiv.org/pdf/2203.09410.pdf) | [CODE](https://github.com/dholzmueller/bmdal_rega) |
 | A Continual Learning Algorithm Based on Orthogonal Gradient Descent Beyond Neural Tangent Kernel Regime | IEEE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10213447) | - |
 | The Quantum Path Kernel: A Generalized Neural Tangent Kernel for Deep Quantum Machine Learning | QE | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158043) | - |
