@@ -2,6 +2,21 @@
 This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme or core idea.  
 *NOTE:* If there are any papers I've missed, please feel free to [raise an issue](https://github.com/kwignb/NeuralTangentKernel-Papers/issues).
 
+## 2024
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Faithful and Efficient Explanations for Neural Networks via Neural Tangent Kernel Surrogate Models | ICLR | [PDF](https://arxiv.org/pdf/2305.14585.pdf) | [CODE](https://github.com/pnnl/projection_ntk) |
+| PINNACLE: PINN Adaptive ColLocation and Experimental points selection | ICLR | [PDF](https://openreview.net/pdf?id=GzNaCp6Vcg) | - |
+| On the Foundations of Shortcut Learning | ICLR | [PDF](https://arxiv.org/pdf/2310.16228.pdf) | - |
+| Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation | ICLR | [PDF](https://arxiv.org/pdf/2302.01428.pdf) | - |
+| Sample Relationship from Learning Dynamics Matters for Generalisation | ICLR | [PDF](https://arxiv.org/pdf/2401.08808.pdf) | - |
+| Robust NAS benchmark under adversarial training: assessment, theory, and beyond | ICLR | [PDF](https://openreview.net/pdf?id=cdUpf6t6LZ) | - |
+| Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach | ICLR | [PDF](https://arxiv.org/pdf/2310.06112.pdf) | [CODE](https://github.com/fshp971/adv-ntk) |
+| Heterogeneous Personalized Federated Learning by Local-Global Updates Mixing via Convergence Rate | ICLR | [PDF](https://openreview.net/pdf?id=7pWRLDBAtc) | - |
+| Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization | ICLR | [PDF](https://arxiv.org/pdf/2401.15604.pdf) | - |
+| Grokking as the Transition from Lazy to Rich Training Dynamics | ICLR | [PDF](https://arxiv.org/pdf/2310.06110.pdf) | - |
+| Generalization of Deep ResNets in the Mean-Field Regime | ICLR | [PDF](https://openreview.net/pdf?id=tMzPZTvz2H) | - |
+
 ## 2023
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -14,6 +29,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Dynamics of Finite Width Kernel and Prediction Fluctuations in Mean Field Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2304.03408.pdf) | [CODE](https://github.com/Pehlevan-Group/dmft_fluctuations) |
 | Spectral Evolution and Invariance in Linear-width Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2211.06506.pdf) | - |
 | Analyzing Generalization of Neural Networks through Loss Path Kernels | NeurIPS | [PDF](https://openreview.net/pdf?id=8Ba7VJ7xiM) | - |
+| Neural (Tangent Kernel) Collapse | NeurIPS | [PDF](https://arxiv.org/pdf/2305.16427.pdf) | - |
+| Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension | NeurIPS | [PDF](https://arxiv.org/pdf/2305.14077.pdf) | [CODE](https://github.com/moritzhaas/mind-the-spikes) |
 | A PAC-Bayesian Perspective on the Interpolating Information Criterion | NeurIPS-W | [PDF](https://arxiv.org/pdf/2311.07013.pdf) | - |
 | A Kernel Perspective of Skip Connections in Convolutional Networks | ICLR | [PDF](https://arxiv.org/pdf/2211.14810.pdf) | - |
 | Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2209.15208.pdf) | - |
@@ -39,6 +56,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Regularizing Second-Order Influences for Continual Learning | CVPR | [PDF](https://arxiv.org/pdf/2304.10177.pdf) | [CODE](https://github.com/feifeiobama/InfluenceCL) |
 | Multiplicative Fourier Level of Detail | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_Multiplicative_Fourier_Level_of_Detail_CVPR_2023_paper.pdf) | - |
 | KECOR: Kernel Coding Rate Maximization for Active 3D Object Detection | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_KECOR_Kernel_Coding_Rate_Maximization_for_Active_3D_Object_Detection_ICCV_2023_paper.pdf) | [CODE](https://github.com/Luoyadan/KECOR-active-3Ddet) |
+| TKIL: Tangent Kernel Approach for Class Balanced Incremental Learning | ICCV-W | [PDF](https://arxiv.org/pdf/2206.08492.pdf) | - |
 | A Fast, Well-Founded Approximation to the Empirical Neural Tangent Kernel | ICML | [PDF](https://arxiv.org/pdf/2206.12543v1.pdf) | - |
 | Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels | ICML | [PDF](https://arxiv.org/pdf/2306.03968.pdf) | [CODE](https://github.com/AlexImmer/ntk-marglik) |
 | Graph Neural Tangent Kernel: Convergence on Large Graphs | ICML | [PDF](https://arxiv.org/pdf/2301.10808.pdf) | - |
