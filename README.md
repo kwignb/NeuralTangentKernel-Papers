@@ -11,6 +11,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Continual learning with the neural tangent ensemble | NeurIPS | [PDF](https://arxiv.org/pdf/2408.17394) | - |
 | A generalized neural tangent kernel for surrogate gradient learning | NeurIPS | [PDF](https://arxiv.org/pdf/2405.15539) | - |
 | Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed | NeurIPS | [PDF](https://openreview.net/pdf/aa8413b4d6118fa3f33ae344ad2e3e3fd195bf64.pdf) | [CODE](https://github.com/kthrn22/TempGNTK) |
+| When Training-Free NAS Meets Vision Transformer: A Neural Tangent Kernel Perspective | ICASSP | [PDF](https://arxiv.org/pdf/2405.04536) | - |
 | Faithful and Efficient Explanations for Neural Networks via Neural Tangent Kernel Surrogate Models | ICLR | [PDF](https://arxiv.org/pdf/2305.14585.pdf) | [CODE](https://github.com/pnnl/projection_ntk) |
 | PINNACLE: PINN Adaptive ColLocation and Experimental points selection | ICLR | [PDF](https://openreview.net/pdf?id=GzNaCp6Vcg) | - |
 | On the Foundations of Shortcut Learning | ICLR | [PDF](https://arxiv.org/pdf/2310.16228.pdf) | - |
@@ -22,10 +23,21 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization | ICLR | [PDF](https://arxiv.org/pdf/2401.15604.pdf) | - |
 | Grokking as the Transition from Lazy to Rich Training Dynamics | ICLR | [PDF](https://arxiv.org/pdf/2310.06110.pdf) | - |
 | Generalization of Deep ResNets in the Mean-Field Regime | ICLR | [PDF](https://openreview.net/pdf?id=tMzPZTvz2H) | - |
+| Grounding and Enhancing Grid-based Models for Neural Fields | CVPR | [PDF](https://arxiv.org/pdf/2403.20002) | - |
+| FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions | CVPR | [PDF](https://arxiv.org/pdf/2312.02434) | - |
+| Improved Implicit Neural Representation with Fourier Reparameterized Training | CVPR | [PDF](https://arxiv.org/pdf/2401.07402) | [CODE](https://github.com/LabShuHangGU/FR-INR) |
+| Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning | CVPR | [PDF](https://arxiv.org/pdf/2406.01820) | [CODE](https://github.com/iurada/px-ntk-pruning) |
+| Batch Normalization Alleviates the Spectral Bias in Coordinate Networks | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Batch_Normalization_Alleviates_the_Spectral_Bias_in_Coordinate_Networks_CVPR_2024_paper.pdf) | [CODE](https://github.com/Aiolus-X/Norm-INR) |
+| Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models | CVPR-W | [PDF](https://arxiv.org/pdf/2312.14923) | - |
 | Neural Tangent Kernels for Axis-Aligned Tree Ensembles | ICML | [PDF](https://openreview.net/pdf?id=YxmcEfcgp3) | - |
 | Neural Tangent Kernels Motivate Cross-Covariance Graphs in Neural Networks | ICML | [PDF](https://openreview.net/pdf/6dc8d74f7186a0fef61ecf9e97f94a8bcb742734.pdf) | [CODE](https://github.com/shervinkhal/Cross_Covariance_NTK) |
 | An Infinite-Width Analysis on the Jacobian-Regularised Training of a Neural Network | ICML | [PDF](https://arxiv.org/pdf/2312.03386) | - |
 | Mean Field Langevin Actor-Critic: Faster Convergence and Global Optimality beyond Lazy Learning | ICML | [PDF](https://openreview.net/pdf?id=FOJE1kRcHG) | - |
+| Non-Parametric Representation Learning with Kernels | AAAI | [PDF](https://arxiv.org/pdf/2309.02028) | - |
+|Differentially Private Kernel Inducing Points using features from ScatterNets (DP-KIP-ScatterNet) for Privacy Preserving Data Distillation | TMLR | [PDF](https://openreview.net/pdf?id=84M8xwNxrc) | [CODE](https://github.com/ParkLabML/DP-KIP) |
+| Overparametrized Multi-layer Neural Networks: Uniform Concentration of Neural Tangent Kernel and Convergence of Stochastic Gradient Descent | JMLR | [PDF](https://www.jmlr.org/papers/volume25/23-0740/23-0740.pdf) | - |
+| Neural Hilbert Ladders: Multi-Layer Neural Networks in Function Space | JMLR | [PDF](https://arxiv.org/pdf/2307.01177) | - |
+| Differentially Private Neural Tangent Kernels (DP-NTK) for Privacy-Preserving Data Generation | JAIR | [PDF](https://arxiv.org/pdf/2303.01687v2) | - |
 
 ## 2023
 | Title | Venue | PDF | CODE |
@@ -41,6 +53,9 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Analyzing Generalization of Neural Networks through Loss Path Kernels | NeurIPS | [PDF](https://openreview.net/pdf?id=8Ba7VJ7xiM) | - |
 | Neural (Tangent Kernel) Collapse | NeurIPS | [PDF](https://arxiv.org/pdf/2305.16427.pdf) | - |
 | Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension | NeurIPS | [PDF](https://arxiv.org/pdf/2305.14077.pdf) | [CODE](https://github.com/moritzhaas/mind-the-spikes) |
+| On the Asymptotic Learning Curves of Kernel Ridge Regression under Power-law Decay | NeurIPS | [PDF](https://arxiv.org/pdf/2309.13337) | - |
+| On the Convergence of Encoder-only Shallow Transformers | NeurIPS | [PDF](https://arxiv.org/pdf/2311.01575) | - |
+| The Geometry of Neural Nets' Parameter Spaces Under Reparametrization | NeurIPS | [PDF](https://arxiv.org/pdf/2302.07384) | - |
 | A PAC-Bayesian Perspective on the Interpolating Information Criterion | NeurIPS-W | [PDF](https://arxiv.org/pdf/2311.07013.pdf) | - |
 | A Kernel Perspective of Skip Connections in Convolutional Networks | ICLR | [PDF](https://arxiv.org/pdf/2211.14810.pdf) | - |
 | Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2209.15208.pdf) | - |
@@ -80,6 +95,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Reward-Biased Maximum Likelihood Estimation for Neural Contextual Bandits | AAAI | [PDF](https://arxiv.org/pdf/2203.04192.pdf) | - |
 | Neural tangent kernel at initialization: linear width suffices | UAI | [PDF](https://proceedings.mlr.press/v216/banerjee23a.html) | - |
 | Kernel Ridge Regression-Based Graph Dataset Distillation | SIGKDD | [PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599398) | [CODE](https://github.com/pricexu/KIDD) |
+| Can Infinitely Wide Deep Nets Help Small-data Multi-label Learning? | ACML | [PDF](https://proceedings.mlr.press/v222/wu24b/wu24b.pdf) | - |
 | Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection | TMLR | [PDF](https://openreview.net/pdf?id=nEX2q5B2RQ) | - |
 | The Eigenlearning Framework: A Conservation Law Perspective on Kernel Regression and Wide Neural Networks | TMLR | [PDF](https://arxiv.org/pdf/2110.03922.pdf) | [CODE](https://github.com/james-simon/eigenlearning) |
 | Empirical Limitations of the NTK for Understanding Scaling Laws in Deep Learning | TMLR | [PDF](https://openreview.net/pdf?id=Y3saBb7mCE) | - |
