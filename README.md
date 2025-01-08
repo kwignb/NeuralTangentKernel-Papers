@@ -5,6 +5,12 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 ## 2024
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Mixed Dynamics In Linear Networks: Unifying the Lazy and Active Regimes | NeurIPS | [PDF](https://arxiv.org/pdf/2405.17580) | - |
+| On the Impacts of the Random Initialization in the Neural Tangent Kernel Theory | NeurIPS | [PDF](https://arxiv.org/pdf/2410.05626) | - |
+| Error Correction Output Codes for Robust Neural Networks against Weight-errors: A Neural Tangent Kernel Point of View | NeurIPS | [PDF](https://openreview.net/pdf?id=7LIm53Jiic) | - |
+| Continual learning with the neural tangent ensemble | NeurIPS | [PDF](https://arxiv.org/pdf/2408.17394) | - |
+| A generalized neural tangent kernel for surrogate gradient learning | NeurIPS | [PDF](https://arxiv.org/pdf/2405.15539) | - |
+| Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed | NeurIPS | [PDF](https://openreview.net/pdf/aa8413b4d6118fa3f33ae344ad2e3e3fd195bf64.pdf) | [CODE](https://github.com/kthrn22/TempGNTK) |
 | Faithful and Efficient Explanations for Neural Networks via Neural Tangent Kernel Surrogate Models | ICLR | [PDF](https://arxiv.org/pdf/2305.14585.pdf) | [CODE](https://github.com/pnnl/projection_ntk) |
 | PINNACLE: PINN Adaptive ColLocation and Experimental points selection | ICLR | [PDF](https://openreview.net/pdf?id=GzNaCp6Vcg) | - |
 | On the Foundations of Shortcut Learning | ICLR | [PDF](https://arxiv.org/pdf/2310.16228.pdf) | - |
@@ -16,6 +22,10 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization | ICLR | [PDF](https://arxiv.org/pdf/2401.15604.pdf) | - |
 | Grokking as the Transition from Lazy to Rich Training Dynamics | ICLR | [PDF](https://arxiv.org/pdf/2310.06110.pdf) | - |
 | Generalization of Deep ResNets in the Mean-Field Regime | ICLR | [PDF](https://openreview.net/pdf?id=tMzPZTvz2H) | - |
+| Neural Tangent Kernels for Axis-Aligned Tree Ensembles | ICML | [PDF](https://openreview.net/pdf?id=YxmcEfcgp3) | - |
+| Neural Tangent Kernels Motivate Cross-Covariance Graphs in Neural Networks | ICML | [PDF](https://openreview.net/pdf/6dc8d74f7186a0fef61ecf9e97f94a8bcb742734.pdf) | [CODE](https://github.com/shervinkhal/Cross_Covariance_NTK) |
+| An Infinite-Width Analysis on the Jacobian-Regularised Training of a Neural Network | ICML | [PDF](https://arxiv.org/pdf/2312.03386) | - |
+| Mean Field Langevin Actor-Critic: Faster Convergence and Global Optimality beyond Lazy Learning | ICML | [PDF](https://openreview.net/pdf?id=FOJE1kRcHG) | - |
 
 ## 2023
 | Title | Venue | PDF | CODE |
