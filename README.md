@@ -25,11 +25,13 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Grokking as the Transition from Lazy to Rich Training Dynamics | ICLR | [PDF](https://arxiv.org/pdf/2310.06110.pdf) | - |
 | Generalization of Deep ResNets in the Mean-Field Regime | ICLR | [PDF](https://openreview.net/pdf?id=tMzPZTvz2H) | - |
 | The conjugate kernel for efficient training of physics-informed deep operator networks | ICLR-W | [PDF](https://openreview.net/pdf?id=c9DiQJozff) | - |
+| Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization | AISTATS | [PDF](https://arxiv.org/pdf/2403.07264) | [CODE](https://github.com/YutongWangML/Near-Interpolators-Figures) |
 | Grounding and Enhancing Grid-based Models for Neural Fields | CVPR | [PDF](https://arxiv.org/pdf/2403.20002) | - |
 | FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions | CVPR | [PDF](https://arxiv.org/pdf/2312.02434) | - |
 | Improved Implicit Neural Representation with Fourier Reparameterized Training | CVPR | [PDF](https://arxiv.org/pdf/2401.07402) | [CODE](https://github.com/LabShuHangGU/FR-INR) |
 | Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning | CVPR | [PDF](https://arxiv.org/pdf/2406.01820) | [CODE](https://github.com/iurada/px-ntk-pruning) |
 | Batch Normalization Alleviates the Spectral Bias in Coordinate Networks | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Batch_Normalization_Alleviates_the_Spectral_Bias_in_Coordinate_Networks_CVPR_2024_paper.pdf) | [CODE](https://github.com/Aiolus-X/Norm-INR) |
+| Neural Linage | CVPR | [PDF](https://arxiv.org/pdf/2406.11129) | - |
 | Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models | CVPR-W | [PDF](https://arxiv.org/pdf/2312.14923) | - |
 | Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation | ECCV | [PDF](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03030.pdf) | [CODE](https://github.com/silicx/GoldFromOres-BiLP) |
 | Neural Tangent Kernels for Axis-Aligned Tree Ensembles | ICML | [PDF](https://openreview.net/pdf?id=YxmcEfcgp3) | - |
@@ -66,6 +68,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Leveraging the two timescale regime to demonstrate convergence of neural networks | NeurIPS | [PDF](https://arxiv.org/pdf/2304.09576) | - |
 | Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2306.05674) | - |
 | Sample based Explanations via Generalized Representers | NeurIPS | [PDF](https://arxiv.org/pdf/2310.18526) | - |
+| On skip connections and normalisation layers in deep optimisation | NeurIPS | [PDF](https://arxiv.org/pdf/2210.05371) | - |
 | A PAC-Bayesian Perspective on the Interpolating Information Criterion | NeurIPS-W | [PDF](https://arxiv.org/pdf/2311.07013.pdf) | - |
 | A Kernel Perspective of Skip Connections in Convolutional Networks | ICLR | [PDF](https://arxiv.org/pdf/2211.14810.pdf) | - |
 | Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2209.15208.pdf) | - |
