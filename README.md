@@ -25,6 +25,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Grokking as the Transition from Lazy to Rich Training Dynamics | ICLR | [PDF](https://arxiv.org/pdf/2310.06110.pdf) | - |
 | Generalization of Deep ResNets in the Mean-Field Regime | ICLR | [PDF](https://openreview.net/pdf?id=tMzPZTvz2H) | - |
 | The conjugate kernel for efficient training of physics-informed deep operator networks | ICLR-W | [PDF](https://openreview.net/pdf?id=c9DiQJozff) | - |
+| RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks | ICLR-W | [PDF](https://arxiv.org/pdf/2402.08367) | [CODE](https://github.com/SimonZeng7108/RBF-PINN/tree/master) |
 | Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization | AISTATS | [PDF](https://arxiv.org/pdf/2403.07264) | [CODE](https://github.com/YutongWangML/Near-Interpolators-Figures) |
 | Grounding and Enhancing Grid-based Models for Neural Fields | CVPR | [PDF](https://arxiv.org/pdf/2403.20002) | - |
 | FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions | CVPR | [PDF](https://arxiv.org/pdf/2312.02434) | - |
@@ -40,6 +41,8 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Mean Field Langevin Actor-Critic: Faster Convergence and Global Optimality beyond Lazy Learning | ICML | [PDF](https://openreview.net/pdf?id=FOJE1kRcHG) | - |
 | Reward-Free Kernel-Based Reinforcement Learning | ICML | [PDF](https://openreview.net/pdf?id=QTt2xJI8vk) | - |
 | Non-Parametric Representation Learning with Kernels | AAAI | [PDF](https://arxiv.org/pdf/2309.02028) | - |
+| G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection | AAAI | [PDF](https://arxiv.org/pdf/2402.04672) | [CODE](https://github.com/wufan-cse/G-NAS) |
+| Meta Clustering of Neural Bandits | KDD | [PDF](https://arxiv.org/pdf/2408.05586) | - |
 | Fast Graph Condensation with Structure-based Neural Tangent Kernel | WWW | [PDF](https://arxiv.org/pdf/2310.11046) | - |
 | Differentially Private Kernel Inducing Points using features from ScatterNets (DP-KIP-ScatterNet) for Privacy Preserving Data Distillation | TMLR | [PDF](https://openreview.net/pdf?id=84M8xwNxrc) | [CODE](https://github.com/ParkLabML/DP-KIP) |
 | Overparametrized Multi-layer Neural Networks: Uniform Concentration of Neural Tangent Kernel and Convergence of Stochastic Gradient Descent | JMLR | [PDF](https://www.jmlr.org/papers/volume25/23-0740/23-0740.pdf) | - |
