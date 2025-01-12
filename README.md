@@ -72,6 +72,7 @@ This list contains papers that adopt Neural Tangent Kernel (NTK) as a main theme
 | Efficient Uncertainty Quantification and Reduction for Over-Parameterized Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2306.05674) | - |
 | Sample based Explanations via Generalized Representers | NeurIPS | [PDF](https://arxiv.org/pdf/2310.18526) | - |
 | On skip connections and normalisation layers in deep optimisation | NeurIPS | [PDF](https://arxiv.org/pdf/2210.05371) | - |
+| Initialization Matters: Privacy-Utility Analysis of Overparameterized Neural Networks | NeurIPS | [PDF](https://arxiv.org/pdf/2310.20579) | - |
 | A PAC-Bayesian Perspective on the Interpolating Information Criterion | NeurIPS-W | [PDF](https://arxiv.org/pdf/2311.07013.pdf) | - |
 | A Kernel Perspective of Skip Connections in Convolutional Networks | ICLR | [PDF](https://arxiv.org/pdf/2211.14810.pdf) | - |
 | Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel | ICLR | [PDF](https://arxiv.org/pdf/2209.15208.pdf) | - |
